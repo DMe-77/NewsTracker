@@ -1,0 +1,3534 @@
+{
+    "last_updated": "2026-03-25T19:45:16.378658+00:00",
+    "truck_stats": [
+        {
+            "date": "2026-01-01",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/01-01-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 1130,
+                    "in": 542,
+                    "out": 588
+                },
+                "Лесово": {
+                    "total": 532,
+                    "in": 350,
+                    "out": 182
+                },
+                "Калотина": {
+                    "total": 490,
+                    "in": 262,
+                    "out": 228
+                }
+            }
+        },
+        {
+            "date": "2026-01-02",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/02-01-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 1731,
+                    "in": 951,
+                    "out": 780
+                },
+                "Лесово": {
+                    "total": 526,
+                    "in": 409,
+                    "out": 117
+                },
+                "Калотина": {
+                    "total": 541,
+                    "in": 356,
+                    "out": 185
+                }
+            }
+        },
+        {
+            "date": "2026-01-03",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/03-01-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 1845,
+                    "in": 1138,
+                    "out": 707
+                },
+                "Лесово": {
+                    "total": 616,
+                    "in": 472,
+                    "out": 144
+                },
+                "Калотина": {
+                    "total": 508,
+                    "in": 148,
+                    "out": 360
+                }
+            }
+        },
+        {
+            "date": "2026-01-04",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/04-01-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 1572,
+                    "in": 1052,
+                    "out": 520
+                },
+                "Лесово": {
+                    "total": 785,
+                    "in": 527,
+                    "out": 258
+                },
+                "Калотина": {
+                    "total": 577,
+                    "in": 258,
+                    "out": 319
+                }
+            }
+        },
+        {
+            "date": "2026-01-05",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/05-01-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 1547,
+                    "in": 767,
+                    "out": 780
+                },
+                "Лесово": {
+                    "total": 834,
+                    "in": 374,
+                    "out": 460
+                },
+                "Калотина": {
+                    "total": 515,
+                    "in": 218,
+                    "out": 297
+                }
+            }
+        },
+        {
+            "date": "2026-01-06",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/06-01-2026-Processed-trucks",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 1537,
+                    "in": 724,
+                    "out": 813
+                },
+                "Лесово": {
+                    "total": 796,
+                    "in": 420,
+                    "out": 376
+                },
+                "Калотина": {
+                    "total": 504,
+                    "in": 171,
+                    "out": 333
+                }
+            }
+        },
+        {
+            "date": "2026-01-07",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/07-01-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 1949,
+                    "in": 1012,
+                    "out": 937
+                },
+                "Лесово": {
+                    "total": 960,
+                    "in": 513,
+                    "out": 447
+                },
+                "Калотина": {
+                    "total": 550,
+                    "in": 211,
+                    "out": 339
+                }
+            }
+        },
+        {
+            "date": "2026-01-08",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/08-01-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2150,
+                    "in": 1137,
+                    "out": 1013
+                },
+                "Лесово": {
+                    "total": 1040,
+                    "in": 628,
+                    "out": 412
+                },
+                "Калотина": {
+                    "total": 474,
+                    "in": 156,
+                    "out": 318
+                }
+            }
+        },
+        {
+            "date": "2026-01-09",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/09-01-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2173,
+                    "in": 1220,
+                    "out": 953
+                },
+                "Лесово": {
+                    "total": 1016,
+                    "in": 667,
+                    "out": 349
+                },
+                "Калотина": {
+                    "total": 780,
+                    "in": 435,
+                    "out": 345
+                }
+            }
+        },
+        {
+            "date": "2026-01-10",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/10-01-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2317,
+                    "in": 1157,
+                    "out": 1160
+                },
+                "Лесово": {
+                    "total": 1001,
+                    "in": 692,
+                    "out": 309
+                },
+                "Калотина": {
+                    "total": 1157,
+                    "in": 616,
+                    "out": 541
+                }
+            }
+        },
+        {
+            "date": "2026-01-11",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/11-01-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2440,
+                    "in": 1239,
+                    "out": 1201
+                },
+                "Лесово": {
+                    "total": 1032,
+                    "in": 601,
+                    "out": 431
+                },
+                "Калотина": {
+                    "total": 1176,
+                    "in": 683,
+                    "out": 493
+                }
+            }
+        },
+        {
+            "date": "2026-01-12",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/12-01-2026-Processed-trucks",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2617,
+                    "in": 1266,
+                    "out": 1351
+                },
+                "Лесово": {
+                    "total": 1352,
+                    "in": 733,
+                    "out": 619
+                },
+                "Калотина": {
+                    "total": 1131,
+                    "in": 711,
+                    "out": 420
+                }
+            }
+        },
+        {
+            "date": "2026-01-13",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/13-01-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2615,
+                    "in": 1161,
+                    "out": 1454
+                },
+                "Лесово": {
+                    "total": 1158,
+                    "in": 630,
+                    "out": 528
+                },
+                "Калотина": {
+                    "total": 1080,
+                    "in": 582,
+                    "out": 498
+                }
+            }
+        },
+        {
+            "date": "2026-01-14",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/14-01-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2699,
+                    "in": 1298,
+                    "out": 1401
+                },
+                "Лесово": {
+                    "total": 1229,
+                    "in": 610,
+                    "out": 619
+                },
+                "Калотина": {
+                    "total": 1307,
+                    "in": 732,
+                    "out": 575
+                }
+            }
+        },
+        {
+            "date": "2026-01-15",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/15-01-2026-Processed-trucks",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2726,
+                    "in": 1300,
+                    "out": 1426
+                },
+                "Лесово": {
+                    "total": 1427,
+                    "in": 709,
+                    "out": 718
+                },
+                "Калотина": {
+                    "total": 1237,
+                    "in": 681,
+                    "out": 556
+                }
+            }
+        },
+        {
+            "date": "2026-01-16",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/16-01-2026-Preocessed-trucks",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2878,
+                    "in": 1276,
+                    "out": 1602
+                },
+                "Лесово": {
+                    "total": 1145,
+                    "in": 579,
+                    "out": 566
+                },
+                "Калотина": {
+                    "total": 1173,
+                    "in": 655,
+                    "out": 518
+                }
+            }
+        },
+        {
+            "date": "2026-01-17",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/17-01-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2901,
+                    "in": 1402,
+                    "out": 1499
+                },
+                "Лесово": {
+                    "total": 1450,
+                    "in": 661,
+                    "out": 789
+                },
+                "Калотина": {
+                    "total": 1192,
+                    "in": 524,
+                    "out": 668
+                }
+            }
+        },
+        {
+            "date": "2026-01-18",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/18-01-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2911,
+                    "in": 1414,
+                    "out": 1497
+                },
+                "Лесово": {
+                    "total": 1347,
+                    "in": 709,
+                    "out": 665
+                },
+                "Калотина": {
+                    "total": 1256,
+                    "in": 671,
+                    "out": 585
+                }
+            }
+        },
+        {
+            "date": "2026-01-19",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/19-01-2026-Processed-trucks",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2880,
+                    "in": 1336,
+                    "out": 1544
+                },
+                "Лесово": {
+                    "total": 1473,
+                    "in": 691,
+                    "out": 782
+                },
+                "Калотина": {
+                    "total": 1212,
+                    "in": 705,
+                    "out": 507
+                }
+            }
+        },
+        {
+            "date": "2026-01-20",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/20-01-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2764,
+                    "in": 1341,
+                    "out": 1423
+                },
+                "Лесово": {
+                    "total": 1356,
+                    "in": 677,
+                    "out": 679
+                },
+                "Калотина": {
+                    "total": 1251,
+                    "in": 665,
+                    "out": 586
+                }
+            }
+        },
+        {
+            "date": "2026-01-21",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/21-01-2026-Processed-trucks",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2723,
+                    "in": 1345,
+                    "out": 1378
+                },
+                "Лесово": {
+                    "total": 1167,
+                    "in": 623,
+                    "out": 544
+                },
+                "Калотина": {
+                    "total": 1313,
+                    "in": 709,
+                    "out": 604
+                }
+            }
+        },
+        {
+            "date": "2026-01-22",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/22-01-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 3000,
+                    "in": 1428,
+                    "out": 1572
+                },
+                "Лесово": {
+                    "total": 1438,
+                    "in": 627,
+                    "out": 811
+                },
+                "Калотина": {
+                    "total": 1253,
+                    "in": 645,
+                    "out": 608
+                }
+            }
+        },
+        {
+            "date": "2026-01-23",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/23-01-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2953,
+                    "in": 1323,
+                    "out": 1630
+                },
+                "Лесово": {
+                    "total": 1407,
+                    "in": 781,
+                    "out": 626
+                },
+                "Калотина": {
+                    "total": 1185,
+                    "in": 598,
+                    "out": 587
+                }
+            }
+        },
+        {
+            "date": "2026-01-24",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/24-01-2026-Processed-trucks",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2847,
+                    "in": 1272,
+                    "out": 1575
+                },
+                "Лесово": {
+                    "total": 1543,
+                    "in": 756,
+                    "out": 787
+                },
+                "Калотина": {
+                    "total": 1281,
+                    "in": 631,
+                    "out": 650
+                }
+            }
+        },
+        {
+            "date": "2026-01-25",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/25-01-2026-Processed-trucks",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 3066,
+                    "in": 1466,
+                    "out": 1600
+                },
+                "Лесово": {
+                    "total": 1531,
+                    "in": 810,
+                    "out": 721
+                },
+                "Калотина": {
+                    "total": 1165,
+                    "in": 616,
+                    "out": 549
+                }
+            }
+        },
+        {
+            "date": "2026-01-26",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/26-01-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2726,
+                    "in": 1316,
+                    "out": 1410
+                },
+                "Лесово": {
+                    "total": 1474,
+                    "in": 740,
+                    "out": 734
+                },
+                "Калотина": {
+                    "total": 1174,
+                    "in": 858,
+                    "out": 316
+                }
+            }
+        },
+        {
+            "date": "2026-01-27",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/27-01-2026-Processed-trucks",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2701,
+                    "in": 1273,
+                    "out": 1428
+                },
+                "Лесово": {
+                    "total": 1344,
+                    "in": 707,
+                    "out": 637
+                },
+                "Калотина": {
+                    "total": 458,
+                    "in": 200,
+                    "out": 258
+                }
+            }
+        },
+        {
+            "date": "2026-01-28",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/28-01-2026-Processed-trucks",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2772,
+                    "in": 1289,
+                    "out": 1483
+                },
+                "Лесово": {
+                    "total": 1390,
+                    "in": 721,
+                    "out": 669
+                },
+                "Калотина": {
+                    "total": 431,
+                    "in": 222,
+                    "out": 209
+                }
+            }
+        },
+        {
+            "date": "2026-01-29",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/29-01-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2828,
+                    "in": 1393,
+                    "out": 1435
+                },
+                "Лесово": {
+                    "total": 1606,
+                    "in": 707,
+                    "out": 899
+                }
+            }
+        },
+        {
+            "date": "2026-01-30",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/30-01-2026-Processed-trucks",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2718,
+                    "in": 1315,
+                    "out": 1403
+                },
+                "Лесово": {
+                    "total": 1461,
+                    "in": 711,
+                    "out": 750
+                }
+            }
+        },
+        {
+            "date": "2026-01-31",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/31-01-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2638,
+                    "in": 1312,
+                    "out": 1326
+                },
+                "Лесово": {
+                    "total": 1352,
+                    "in": 706,
+                    "out": 646
+                },
+                "Калотина": {
+                    "total": 902,
+                    "in": 403,
+                    "out": 499
+                }
+            }
+        },
+        {
+            "date": "2026-02-01",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/01-02-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2834,
+                    "in": 1458,
+                    "out": 1376
+                },
+                "Лесово": {
+                    "total": 1447,
+                    "in": 851,
+                    "out": 596
+                },
+                "Калотина": {
+                    "total": 862,
+                    "in": 357,
+                    "out": 505
+                }
+            }
+        },
+        {
+            "date": "2026-02-02",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/02-02-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2890,
+                    "in": 1435,
+                    "out": 1455
+                },
+                "Лесово": {
+                    "total": 1142,
+                    "in": 665,
+                    "out": 477
+                },
+                "Калотина": {
+                    "total": 980,
+                    "in": 584,
+                    "out": 396
+                }
+            }
+        },
+        {
+            "date": "2026-02-03",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/03-02-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2550,
+                    "in": 1153,
+                    "out": 1397
+                },
+                "Лесово": {
+                    "total": 1005,
+                    "in": 567,
+                    "out": 438
+                },
+                "Калотина": {
+                    "total": 1176,
+                    "in": 608,
+                    "out": 568
+                }
+            }
+        },
+        {
+            "date": "2026-02-04",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/04-02-2026-Processed-trucks",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2690,
+                    "in": 1262,
+                    "out": 1428
+                },
+                "Лесово": {
+                    "total": 1577,
+                    "in": 764,
+                    "out": 813
+                },
+                "Калотина": {
+                    "total": 1196,
+                    "in": 694,
+                    "out": 502
+                }
+            }
+        },
+        {
+            "date": "2026-02-05",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/05-02-2026%20-Processed-trucks",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 3008,
+                    "in": 1387,
+                    "out": 1621
+                },
+                "Лесово": {
+                    "total": 1500,
+                    "in": 792,
+                    "out": 708
+                },
+                "Калотина": {
+                    "total": 1198,
+                    "in": 677,
+                    "out": 521
+                }
+            }
+        },
+        {
+            "date": "2026-02-06",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/06-02-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2987,
+                    "in": 1438,
+                    "out": 1549
+                },
+                "Лесово": {
+                    "total": 1355,
+                    "in": 724,
+                    "out": 631
+                },
+                "Калотина": {
+                    "total": 1187,
+                    "in": 654,
+                    "out": 533
+                }
+            }
+        },
+        {
+            "date": "2026-02-07",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/07-02-2026-Processed-trucks",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2810,
+                    "in": 1348,
+                    "out": 1462
+                },
+                "Лесово": {
+                    "total": 1365,
+                    "in": 842,
+                    "out": 523
+                },
+                "Калотина": {
+                    "total": 1225,
+                    "in": 504,
+                    "out": 721
+                }
+            }
+        },
+        {
+            "date": "2026-02-08",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/08-02-2026-Processed-trucks",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2873,
+                    "in": 1419,
+                    "out": 1454
+                },
+                "Лесово": {
+                    "total": 1402,
+                    "in": 783,
+                    "out": 619
+                },
+                "Калотина": {
+                    "total": 1156,
+                    "in": 568,
+                    "out": 588
+                }
+            }
+        },
+        {
+            "date": "2026-02-09",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/09-02-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2824,
+                    "in": 1326,
+                    "out": 1498
+                },
+                "Лесово": {
+                    "total": 1530,
+                    "in": 817,
+                    "out": 713
+                },
+                "Калотина": {
+                    "total": 1192,
+                    "in": 671,
+                    "out": 521
+                }
+            }
+        },
+        {
+            "date": "2026-02-10",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/10-02-2026-Processed-trucks",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2924,
+                    "in": 1464,
+                    "out": 1460
+                },
+                "Лесово": {
+                    "total": 1420,
+                    "in": 777,
+                    "out": 643
+                },
+                "Калотина": {
+                    "total": 1283,
+                    "in": 588,
+                    "out": 695
+                }
+            }
+        },
+        {
+            "date": "2026-02-11",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/11-02-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2989,
+                    "in": 1414,
+                    "out": 1575
+                },
+                "Лесово": {
+                    "total": 1383,
+                    "in": 733,
+                    "out": 650
+                },
+                "Калотина": {
+                    "total": 1417,
+                    "in": 733,
+                    "out": 684
+                }
+            }
+        },
+        {
+            "date": "2026-02-12",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/12-02-2026-Processed-trucks",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2888,
+                    "in": 1342,
+                    "out": 1546
+                },
+                "Лесово": {
+                    "total": 1526,
+                    "in": 762,
+                    "out": 764
+                },
+                "Калотина": {
+                    "total": 1229,
+                    "in": 670,
+                    "out": 559
+                }
+            }
+        },
+        {
+            "date": "2026-02-13",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/13-02-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2833,
+                    "in": 1290,
+                    "out": 1543
+                },
+                "Лесово": {
+                    "total": 1314,
+                    "in": 738,
+                    "out": 576
+                },
+                "Калотина": {
+                    "total": 1125,
+                    "in": 566,
+                    "out": 559
+                }
+            }
+        },
+        {
+            "date": "2026-02-14",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/14-02-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2978,
+                    "in": 1478,
+                    "out": 1500
+                },
+                "Лесово": {
+                    "total": 1529,
+                    "in": 810,
+                    "out": 719
+                },
+                "Калотина": {
+                    "total": 1216,
+                    "in": 515,
+                    "out": 701
+                }
+            }
+        },
+        {
+            "date": "2026-02-15",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/15-02-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2931,
+                    "in": 1479,
+                    "out": 1452
+                },
+                "Лесово": {
+                    "total": 1445,
+                    "in": 797,
+                    "out": 648
+                },
+                "Калотина": {
+                    "total": 1160,
+                    "in": 555,
+                    "out": 605
+                }
+            }
+        },
+        {
+            "date": "2026-02-16",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/16-02-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2928,
+                    "in": 1482,
+                    "out": 1446
+                },
+                "Лесово": {
+                    "total": 1555,
+                    "in": 877,
+                    "out": 678
+                },
+                "Калотина": {
+                    "total": 1139,
+                    "in": 679,
+                    "out": 460
+                }
+            }
+        },
+        {
+            "date": "2026-02-17",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/17-02-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2612,
+                    "in": 1391,
+                    "out": 1221
+                },
+                "Лесово": {
+                    "total": 1400,
+                    "in": 801,
+                    "out": 599
+                },
+                "Калотина": {
+                    "total": 1158,
+                    "in": 569,
+                    "out": 589
+                }
+            }
+        },
+        {
+            "date": "2026-02-18",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/18-02-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 3026,
+                    "in": 1356,
+                    "out": 1670
+                },
+                "Лесово": {
+                    "total": 1256,
+                    "in": 630,
+                    "out": 626
+                },
+                "Калотина": {
+                    "total": 1090,
+                    "in": 422,
+                    "out": 668
+                }
+            }
+        },
+        {
+            "date": "2026-02-19",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/19-02-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 3006,
+                    "in": 1454,
+                    "out": 1552
+                },
+                "Лесово": {
+                    "total": 1306,
+                    "in": 662,
+                    "out": 644
+                },
+                "Калотина": {
+                    "total": 1149,
+                    "in": 591,
+                    "out": 558
+                }
+            }
+        },
+        {
+            "date": "2026-02-20",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/20-02-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2674,
+                    "in": 1246,
+                    "out": 1428
+                },
+                "Лесово": {
+                    "total": 1399,
+                    "in": 820,
+                    "out": 579
+                },
+                "Калотина": {
+                    "total": 1138,
+                    "in": 627,
+                    "out": 511
+                }
+            }
+        },
+        {
+            "date": "2026-02-21",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/21-02-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2809,
+                    "in": 1348,
+                    "out": 1461
+                },
+                "Лесово": {
+                    "total": 1442,
+                    "in": 898,
+                    "out": 544
+                },
+                "Калотина": {
+                    "total": 1339,
+                    "in": 646,
+                    "out": 693
+                }
+            }
+        },
+        {
+            "date": "2026-02-22",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/22-02-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2855,
+                    "in": 1425,
+                    "out": 1430
+                },
+                "Лесово": {
+                    "total": 1393,
+                    "in": 875,
+                    "out": 518
+                },
+                "Калотина": {
+                    "total": 1134,
+                    "in": 597,
+                    "out": 537
+                }
+            }
+        },
+        {
+            "date": "2026-02-23",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/23-02-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 3071,
+                    "in": 1519,
+                    "out": 1552
+                },
+                "Лесово": {
+                    "total": 1464,
+                    "in": 821,
+                    "out": 643
+                },
+                "Калотина": {
+                    "total": 1296,
+                    "in": 794,
+                    "out": 502
+                }
+            }
+        },
+        {
+            "date": "2026-02-24",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/24-02-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2793,
+                    "in": 1310,
+                    "out": 1483
+                },
+                "Лесово": {
+                    "total": 1307,
+                    "in": 722,
+                    "out": 585
+                },
+                "Калотина": {
+                    "total": 1346,
+                    "in": 735,
+                    "out": 611
+                }
+            }
+        },
+        {
+            "date": "2026-02-25",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/25-02-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2927,
+                    "in": 1371,
+                    "out": 1556
+                },
+                "Лесово": {
+                    "total": 1516,
+                    "in": 836,
+                    "out": 680
+                },
+                "Калотина": {
+                    "total": 1312,
+                    "in": 692,
+                    "out": 620
+                }
+            }
+        },
+        {
+            "date": "2026-02-26",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/26-02-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2958,
+                    "in": 1404,
+                    "out": 1554
+                },
+                "Лесово": {
+                    "total": 1398,
+                    "in": 738,
+                    "out": 660
+                },
+                "Калотина": {
+                    "total": 1246,
+                    "in": 670,
+                    "out": 576
+                }
+            }
+        },
+        {
+            "date": "2026-02-27",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/27-02-26-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2892,
+                    "in": 1363,
+                    "out": 1529
+                },
+                "Лесово": {
+                    "total": 1489,
+                    "in": 743,
+                    "out": 746
+                },
+                "Калотина": {
+                    "total": 1255,
+                    "in": 618,
+                    "out": 637
+                }
+            }
+        },
+        {
+            "date": "2026-02-28",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/28-02-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2787,
+                    "in": 1343,
+                    "out": 1444
+                },
+                "Лесово": {
+                    "total": 1527,
+                    "in": 791,
+                    "out": 736
+                },
+                "Калотина": {
+                    "total": 1228,
+                    "in": 518,
+                    "out": 710
+                }
+            }
+        },
+        {
+            "date": "2026-03-01",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/01-03-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2950,
+                    "in": 1457,
+                    "out": 1493
+                },
+                "Лесово": {
+                    "total": 1578,
+                    "in": 889,
+                    "out": 689
+                },
+                "Калотина": {
+                    "total": 1142,
+                    "in": 530,
+                    "out": 612
+                }
+            }
+        },
+        {
+            "date": "2026-03-02",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/02-03-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2966,
+                    "in": 1419,
+                    "out": 1547
+                },
+                "Лесово": {
+                    "total": 1482,
+                    "in": 749,
+                    "out": 733
+                },
+                "Калотина": {
+                    "total": 1168,
+                    "in": 687,
+                    "out": 481
+                }
+            }
+        },
+        {
+            "date": "2026-03-03",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/03-03-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2843,
+                    "in": 1364,
+                    "out": 1479
+                },
+                "Лесово": {
+                    "total": 1372,
+                    "in": 726,
+                    "out": 646
+                },
+                "Калотина": {
+                    "total": 1184,
+                    "in": 559,
+                    "out": 625
+                }
+            }
+        },
+        {
+            "date": "2026-03-04",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/04-03-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2901,
+                    "in": 1378,
+                    "out": 1523
+                },
+                "Лесово": {
+                    "total": 1535,
+                    "in": 812,
+                    "out": 723
+                },
+                "Калотина": {
+                    "total": 1153,
+                    "in": 735,
+                    "out": 418
+                }
+            }
+        },
+        {
+            "date": "2026-03-05",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/05-03-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2875,
+                    "in": 1349,
+                    "out": 1526
+                },
+                "Лесово": {
+                    "total": 1650,
+                    "in": 896,
+                    "out": 754
+                },
+                "Калотина": {
+                    "total": 1283,
+                    "in": 671,
+                    "out": 612
+                }
+            }
+        },
+        {
+            "date": "2026-03-06",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/06-03-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 3033,
+                    "in": 1479,
+                    "out": 1554
+                },
+                "Лесово": {
+                    "total": 1632,
+                    "in": 901,
+                    "out": 731
+                },
+                "Калотина": {
+                    "total": 1198,
+                    "in": 600,
+                    "out": 598
+                }
+            }
+        },
+        {
+            "date": "2026-03-07",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/07-03-2026-Processed-trucks",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2896,
+                    "in": 1368,
+                    "out": 1528
+                },
+                "Лесово": {
+                    "total": 1482,
+                    "in": 766,
+                    "out": 716
+                },
+                "Калотина": {
+                    "total": 1238,
+                    "in": 557,
+                    "out": 681
+                }
+            }
+        },
+        {
+            "date": "2026-03-08",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/08-03-2026-Processed-trucks",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2873,
+                    "in": 1445,
+                    "out": 1427
+                },
+                "Лесово": {
+                    "total": 1574,
+                    "in": 832,
+                    "out": 742
+                },
+                "Калотина": {
+                    "total": 1163,
+                    "in": 575,
+                    "out": 588
+                }
+            }
+        },
+        {
+            "date": "2026-03-09",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/09-03-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2967,
+                    "in": 1429,
+                    "out": 1538
+                },
+                "Лесово": {
+                    "total": 1528,
+                    "in": 861,
+                    "out": 667
+                },
+                "Калотина": {
+                    "total": 1245,
+                    "in": 718,
+                    "out": 527
+                }
+            }
+        },
+        {
+            "date": "2026-03-10",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/10-03-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2906,
+                    "in": 1361,
+                    "out": 1545
+                },
+                "Лесово": {
+                    "total": 1422,
+                    "in": 756,
+                    "out": 666
+                },
+                "Калотина": {
+                    "total": 1174,
+                    "in": 551,
+                    "out": 623
+                }
+            }
+        },
+        {
+            "date": "2026-03-11",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/11-03-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2822,
+                    "in": 1359,
+                    "out": 1463
+                },
+                "Лесово": {
+                    "total": 1469,
+                    "in": 724,
+                    "out": 745
+                },
+                "Калотина": {
+                    "total": 1376,
+                    "in": 808,
+                    "out": 568
+                }
+            }
+        },
+        {
+            "date": "2026-03-12",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/12-03-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2951,
+                    "in": 1446,
+                    "out": 1505
+                },
+                "Лесово": {
+                    "total": 1599,
+                    "in": 943,
+                    "out": 656
+                },
+                "Калотина": {
+                    "total": 1420,
+                    "in": 778,
+                    "out": 642
+                }
+            }
+        },
+        {
+            "date": "2026-03-13",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/13-03-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 3023,
+                    "in": 1540,
+                    "out": 1483
+                },
+                "Лесово": {
+                    "total": 1655,
+                    "in": 880,
+                    "out": 775
+                },
+                "Калотина": {
+                    "total": 1264,
+                    "in": 601,
+                    "out": 663
+                }
+            }
+        },
+        {
+            "date": "2026-03-14",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/14-03-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 3074,
+                    "in": 1491,
+                    "out": 1583
+                },
+                "Лесово": {
+                    "total": 1560,
+                    "in": 815,
+                    "out": 745
+                },
+                "Калотина": {
+                    "total": 1268,
+                    "in": 561,
+                    "out": 707
+                }
+            }
+        },
+        {
+            "date": "2026-03-15",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/15-03-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 3068,
+                    "in": 1530,
+                    "out": 1538
+                },
+                "Лесово": {
+                    "total": 1443,
+                    "in": 840,
+                    "out": 603
+                },
+                "Калотина": {
+                    "total": 1215,
+                    "in": 579,
+                    "out": 636
+                }
+            }
+        },
+        {
+            "date": "2026-03-16",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/16-03-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2891,
+                    "in": 1376,
+                    "out": 1515
+                },
+                "Лесово": {
+                    "total": 1536,
+                    "in": 793,
+                    "out": 743
+                },
+                "Калотина": {
+                    "total": 1233,
+                    "in": 717,
+                    "out": 516
+                }
+            }
+        },
+        {
+            "date": "2026-03-17",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/17-03-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2742,
+                    "in": 1236,
+                    "out": 1506
+                },
+                "Лесово": {
+                    "total": 2742,
+                    "in": 1236,
+                    "out": 1506
+                },
+                "Калотина": {
+                    "total": 1162,
+                    "in": 576,
+                    "out": 586
+                }
+            }
+        },
+        {
+            "date": "2026-03-18",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/18-03-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2788,
+                    "in": 1281,
+                    "out": 1507
+                },
+                "Лесово": {
+                    "total": 1568,
+                    "in": 867,
+                    "out": 701
+                },
+                "Калотина": {
+                    "total": 1239,
+                    "in": 599,
+                    "out": 640
+                }
+            }
+        },
+        {
+            "date": "2026-03-19",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/19-03-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2707,
+                    "in": 1433,
+                    "out": 1274
+                },
+                "Лесово": {
+                    "total": 1587,
+                    "in": 800,
+                    "out": 787
+                },
+                "Калотина": {
+                    "total": 1202,
+                    "in": 580,
+                    "out": 622
+                }
+            }
+        },
+        {
+            "date": "2026-03-20",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/20-03-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2697,
+                    "in": 1398,
+                    "out": 1299
+                },
+                "Лесово": {
+                    "total": 1444,
+                    "in": 809,
+                    "out": 635
+                },
+                "Калотина": {
+                    "total": 1211,
+                    "in": 568,
+                    "out": 643
+                }
+            }
+        },
+        {
+            "date": "2026-03-21",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/21-03-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2411,
+                    "in": 1277,
+                    "out": 1134
+                },
+                "Лесово": {
+                    "total": 1360,
+                    "in": 802,
+                    "out": 558
+                },
+                "Калотина": {
+                    "total": 1225,
+                    "in": 544,
+                    "out": 681
+                }
+            }
+        },
+        {
+            "date": "2026-03-22",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/22-03-2026-processed-trucks-bg",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2204,
+                    "in": 1063,
+                    "out": 1141
+                },
+                "Лесово": {
+                    "total": 1071,
+                    "in": 507,
+                    "out": 564
+                },
+                "Калотина": {
+                    "total": 1055,
+                    "in": 537,
+                    "out": 518
+                }
+            }
+        },
+        {
+            "date": "2026-03-23",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/23-03-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 1924,
+                    "in": 638,
+                    "out": 1286
+                },
+                "Лесово": {
+                    "total": 1066,
+                    "in": 709,
+                    "out": 357
+                },
+                "Калотина": {
+                    "total": 1100,
+                    "in": 331,
+                    "out": 769
+                }
+            }
+        },
+        {
+            "date": "2026-03-24",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/24-03-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 1753,
+                    "in": 701,
+                    "out": 1052
+                },
+                "Лесово": {
+                    "total": 1084,
+                    "in": 437,
+                    "out": 647
+                },
+                "Калотина": {
+                    "total": 1234,
+                    "in": 841,
+                    "out": 393
+                }
+            }
+        },
+        {
+            "date": "2026-03-25",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/25-03-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2276,
+                    "in": 989,
+                    "out": 1287
+                },
+                "Лесово": {
+                    "total": 1491,
+                    "in": 631,
+                    "out": 860
+                },
+                "Калотина": {
+                    "total": 1141,
+                    "in": 657,
+                    "out": 484
+                }
+            }
+        }
+    ],
+    "incidents": [
+        {
+            "first_seen_utc": "2026-03-25T18:18:12.163110+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Важно",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Има ли нова мигрантска вълна по българо-турската граница? Властитепредприемат важни действия"
+            },
+            "links": [
+                {
+                    "url": "https://www.marica.bg/balgariq/obshtestvo/ima-li-nova-migrantska-valna-po-balgaro-turskata-granica-vlastitepredpriemat-vajni-deystviq",
+                    "domain": "marica.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-25T18:10:50.143159+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Важно",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Има ли нова мигрантска вълна по българо-турската граница? Властите със спешни мерки"
+            },
+            "links": [
+                {
+                    "url": "https://www.marica.bg/balgariq/obshtestvo/ima-li-nova-migrantska-valna-po-balgaro-turskata-granica-vlastite-sas-speshni-merki",
+                    "domain": "marica.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-25T11:58:34.363938+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Важно за пътуващите с автомобили към Турция: Нова онлайн проверка пази от глоби и проблеми на границата"
+            },
+            "links": [
+                {
+                    "url": "https://www.marica.bg/svqt/vajno-za-patuvashtite-s-avtomobili-kam-turciq-nova-onlayn-proverka-pazi-ot-globi-i-problemi-na-granicata",
+                    "domain": "marica.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-25T10:44:06.768119+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Петима души са задържани за фалшивите 1,2 млн. евробанкноти"
+            },
+            "links": [
+                {
+                    "url": "https://nova.bg/news/view/2026/03/25/531521/%D0%BF%D0%B5%D1%82%D0%B8%D0%BC%D0%B0-%D0%B4%D1%83%D1%88%D0%B8-%D1%81%D0%B0-%D0%B7%D0%B0%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8-%D0%B7%D0%B0-%D1%84%D0%B0%D0%BB%D1%88%D0%B8%D0%B2%D0%B8%D1%82%D0%B5-12-%D0%BC%D0%BB%D0%BD-%D0%B5%D0%B2%D1%80%D0%BE%D0%B1%D0%B0%D0%BD%D0%BA%D0%BD%D0%BE%D1%82%D0%B8/",
+                    "domain": "nova.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-25T08:46:21.756427+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Важно",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Интензивен е трафикът за камиони на \"Капитан Андреево\" и \"Лесово\""
+            },
+            "links": [
+                {
+                    "url": "https://www.24chasa.bg/spravochnik/article/22535954",
+                    "domain": "24chasa.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-24T18:19:33.238846+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Хасковският окръжен съд осъди сърбина за контрабанда на марихуана"
+            },
+            "links": [
+                {
+                    "url": "https://www.bta.bg/en/news/balkans/1090926-haskovo-district-court-sentences-serbian-for-marijuana-smuggling",
+                    "domain": "bta.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-24T15:03:18.425233+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Разкрита е печатница за фалшиви евро в Румъния близо до българската граница"
+            },
+            "links": [
+                {
+                    "url": "https://www.bta.bg/en/news/bulgaria/1090819-counterfeit-euro-printing-facility-uncovered-in-romania-near-bulgarian-border",
+                    "domain": "bta.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-24T11:54:16.066837+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: ГКПП Капъкуле (TR)",
+                "headline": "📰 53 килограма скункс иззети в Капъкуле"
+            },
+            "links": [
+                {
+                    "url": "https://www.sondakika.com/guncel/haber-kapikule-de-53-kilo-skunk-ele-gecirildi-19684567/",
+                    "domain": "sondakika.com"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-24T09:05:24.655570+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Спряха го по подозрение, излязоха алпаки"
+            },
+            "links": [
+                {
+                    "url": "https://www.ntv.com.tr/galeri/turkiye/suphe-uzerine-durduruldu-icinden-alpakalar-cikti-1717250",
+                    "domain": "ntv.com.tr"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-24T08:36:23.623643+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Спрян е по съмнение, вътре са намерени алпаки"
+            },
+            "links": [
+                {
+                    "url": "https://www.ntv.com.tr/galeri/turkiye/suphe-uzerine-durduruldu-icinde-alpakalar-cikti-1717250",
+                    "domain": "ntv.com.tr"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-24T06:44:18.592054+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Цяло богатство излезе от шоколадовата кутия! Дал всичките си спестявания на &quot;комшията&quot; остана"
+            },
+            "links": [
+                {
+                    "url": "https://www.haberler.com/3-sayfa/edirne-kapikule-de-tir-surucusunde-220-bin-euro-ele-gecirildi-19683117-haberi/",
+                    "domain": "haberler.com"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-24T06:36:46.705075+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 &apos;&apos;Има шоколад&apos;&apos; Той каза, че от това излезе цяло състояние! Заловен на влизане в Турция"
+            },
+            "links": [
+                {
+                    "url": "https://www.sondakika.com/3-sayfa/haber-edirne-sinirinda-220-bin-euro-yakalandi-19683129/",
+                    "domain": "sondakika.com"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-24T06:36:39.500902+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Цяло богатство излезе от шоколадовата кутия! Всичките му спестявания са изчезнали"
+            },
+            "links": [
+                {
+                    "url": "https://www.haberler.com/3-sayfa/edirne-kapikule-de-tir-surucusunde-220-bin-euro-ele-gecirildi-19683117-haberi/",
+                    "domain": "haberler.com"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-24T06:28:48.897156+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 &quot;Има шоколад&quot; Той каза, че от това излезе цяло състояние! Заловен на влизане в Турция"
+            },
+            "links": [
+                {
+                    "url": "https://www.haberler.com/3-sayfa/edirne-kapikule-de-tir-surucusunde-220-bin-euro-ele-gecirildi-19683117-haberi/",
+                    "domain": "haberler.com"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-24T06:13:34.720737+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: ГКПП Капъкуле (TR)",
+                "headline": "📰 220 хил. евро бяха открити в торба, пълна с шоколадови бонбони"
+            },
+            "links": [
+                {
+                    "url": "https://www.haberler.com/3-sayfa/edirne-kapikule-de-tir-surucusunde-220-bin-euro-ele-gecirildi-19683117-haberi/",
+                    "domain": "ensonhaber.com"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-24T05:43:06.818923+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Важно",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Интензивен е трафикът на изхода за камиони на \"Капитан Андреево\" и \"Лесово\""
+            },
+            "links": [
+                {
+                    "url": "https://www.24chasa.bg/spravochnik/article/22529622",
+                    "domain": "24chasa.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-24T05:21:30.291336+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: ГКПП Капъкуле (TR)",
+                "headline": "📰 В камиона в торба, пълна с шоколадови бонбони, са открити бали с евро"
+            },
+            "links": [
+                {
+                    "url": "https://www.ntv.com.tr/turkiye/tirdaki-cikolata-dolu-cantadan-balya-balya-euro-cikti-1717206",
+                    "domain": "ntv.com.tr"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-23T16:21:15.351667+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Недекларирани 220 000 евро, скрити в чанта с шоколади, задържаха на \"Капитан Андреево\" (Видео, снимки)"
+            },
+            "links": [
+                {
+                    "url": "https://www.24chasa.bg/bulgaria/article/22527672",
+                    "domain": "24chasa.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-23T14:21:49.627744+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 220 000 евро сред шоколади намериха митничари на Капитан Андреево"
+            },
+            "links": [
+                {
+                    "url": "https://www.marica.bg/region/haskovo/220-000-evro-sred-shokoladi-nameriha-mitnichari-na-kapitan-andreevo",
+                    "domain": "marica.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-23T12:31:32.857957+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капъкуле (TR)",
+                "headline": "📰 Няма планове за нов граничен пункт между България и Турция, фокусът остава върху разширяването на съществуващия капацитет, казва ръководителят на граничната полиция"
+            },
+            "links": [
+                {
+                    "url": "https://www.bta.bg/en/news/bulgaria/1089916-no-plans-for-new-bulgaria-turkiye-border-crossing-focus-remains-on-expanding-ex",
+                    "domain": "bta.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-23T11:13:37.938523+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 БАБХ иззе над 200 кг храни без документи на „Капитан Андреево“"
+            },
+            "links": [
+                {
+                    "url": "https://nova.bg/news/view/2026/03/23/531255/%D0%B1%D0%B0%D0%B1%D1%85-%D0%B8%D0%B7%D0%B7%D0%B5-%D0%BD%D0%B0%D0%B4-200-%D0%BA%D0%B3-%D1%85%D1%80%D0%B0%D0%BD%D0%B8-%D0%B1%D0%B5%D0%B7-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BE/",
+                    "domain": "nova.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-23T10:59:26.421762+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 БАБХ иззе над 200 кг храни без документи на ГКПП „Капитан Андреево“"
+            },
+            "links": [
+                {
+                    "url": "https://nova.bg/news/view/2026/03/23/531255/%D0%B1%D0%B0%D0%B1%D1%85-%D0%B8%D0%B7%D0%B7%D0%B5-%D0%BD%D0%B0%D0%B4-200-%D0%BA%D0%B3-%D1%85%D1%80%D0%B0%D0%BD%D0%B8-%D0%B1%D0%B5%D0%B7-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8-%D0%BD%D0%B0-%D0%B3%D0%BA%D0%BF%D0%BF-%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BE/",
+                    "domain": "nova.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-23T05:38:28.923616+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Ветеринарните власти с мерки срещу разпространението на шарка и шап по животните"
+            },
+            "links": [
+                {
+                    "url": "https://fakti.bg/bulgaria/1043461-slug-for-change",
+                    "domain": "fakti.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-23T05:24:36.115639+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Над 42 000 души са подали заявления за гласуване в чужбина на парламентарния вот"
+            },
+            "links": [
+                {
+                    "url": "https://fakti.bg/bulgaria/1043460-slug-for-change",
+                    "domain": "fakti.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-23T04:31:20.194180+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 На граничния пункт имаше блъсканица, тъй като хиляди турци се стичаха да пътуват без виза."
+            },
+            "links": [
+                {
+                    "url": "https://www.sozcu.com.tr/binlerce-turk-vizesiz-seyahat-icin-akin-edince-sinir-kapisinda-izdiham-yasandi-p303773",
+                    "domain": "sozcu.com.tr"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-22T10:33:36.772356+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Eдирне (TR)",
+                "headline": "📰 Ние сме като минаващ хан! 11 нелегални имигранти са заловени в Одрин и Къркларели"
+            },
+            "links": [
+                {
+                    "url": "https://www.milligazete.com.tr/yol-gecen-hani-gibiyiz-edirne-ve-kirklarelinde-11-duzensiz-gocmen-yakalandi-1",
+                    "domain": "milligazete.com.tr"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-22T10:32:56.340420+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Eдирне (TR)",
+                "headline": "📰 Заловени са 33 нелегални имигранти"
+            },
+            "links": [
+                {
+                    "url": "https://www.haberturk.com/mugla-da-33-duzensiz-gocmen-yakalandi-3871297",
+                    "domain": "sondakika.com"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-21T18:05:06.410793+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Чистката в МВР продължава: Шефът на \"Вътрешна сигурност\" ст. комисар Даниел Луков е уволнен"
+            },
+            "links": [
+                {
+                    "url": "https://www.marica.bg/balgariq/vlast/chistkata-v-mvr-prodaljava-shefat-na-vatreshna-sigurnost-st-komisar-daniel-lukov-e-uvolnen",
+                    "domain": "marica.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-21T17:58:05.134229+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Тир с текстил изгоря на „Капитан Андреево“, разследва се проява на небрежност"
+            },
+            "links": [
+                {
+                    "url": "https://nova.bg/news/view/2026/03/21/531104/%D1%82%D0%B8%D1%80-%D1%81-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B8%D0%BB-%D0%B8%D0%B7%D0%B3%D0%BE%D1%80%D1%8F-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BE-%D1%80%D0%B0%D0%B7%D1%81%D0%BB%D0%B5%D0%B4%D0%B2%D0%B0-%D1%81%D0%B5-%D0%BF%D1%80%D0%BE%D1%8F%D0%B2%D0%B0-%D0%BD%D0%B0-%D0%BD%D0%B5%D0%B1%D1%80%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82/",
+                    "domain": "nova.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-21T15:50:00.256104+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Прокуратурата разследва пожар по непредпазливост на ГКПП \"Капитан Андреево\""
+            },
+            "links": [
+                {
+                    "url": "https://www.24chasa.bg/bulgaria/article/22516717",
+                    "domain": "24chasa.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-21T15:09:11.502931+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Важно",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Министър Дечев: Миграционната обстановка по границата ни е спокойна"
+            },
+            "links": [
+                {
+                    "url": "https://fakti.bg/bulgaria/1043146-ministar-dechev-migracionnata-obstanovka-po-granicata-ni-e-spokoina",
+                    "domain": "fakti.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-21T14:35:20.676665+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Миграционната обстановка по държавната граница в момента е спокойна, каза вътрешният министър Дечев"
+            },
+            "links": [
+                {
+                    "url": "https://www.bta.bg/en/news/bulgaria/1089050-migration-situation-along-state-border-is-currently-calm-interior-minister-dech",
+                    "domain": "bta.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-21T14:35:14.742448+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 ТИР изгоря на Капитан Андреево“, при пожара е повредена и скъпа апаратура"
+            },
+            "links": [
+                {
+                    "url": "https://fakti.bg/bulgaria/1043144-tir-izgora-na-kapitan-andreevo-pri-pojara-e-povredena-i-skapa-aparatura",
+                    "domain": "fakti.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-21T14:21:48.402733+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капъкуле (TR)",
+                "headline": "📰 Експлозия на граничния пункт в Одрин е заснета от камера"
+            },
+            "links": [
+                {
+                    "url": "https://www.ensonhaber.com/dunya/edirnede-sinir-kapisinda-patlama-kamerada",
+                    "domain": "ensonhaber.com"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-21T14:01:36.101604+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Министър Дечев: Миграционния натиск към държавната граница на България е нисък"
+            },
+            "links": [
+                {
+                    "url": "https://www.24chasa.bg/bulgaria/article/22516201",
+                    "domain": "24chasa.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-21T14:01:30.136683+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Eдирне (TR)",
+                "headline": "📰 Експлозия на граничния пункт Одрин"
+            },
+            "links": [
+                {
+                    "url": "https://www.sondakika.com/3-sayfa/haber-edirne-sinir-kapisinda-patlama-19677035/",
+                    "domain": "sondakika.com"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-21T14:01:22.672199+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капъкуле (TR)",
+                "headline": "📰 Превозното средство, което не успя да вземе завоя, влезе в бариерите"
+            },
+            "links": [
+                {
+                    "url": "https://www.haberler.com/3-sayfa/edirne-de-direksiyon-hakimiyetini-kaybeden-arac-bariyerlere-carpti-19677021-haberi/",
+                    "domain": "haberler.com"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-21T13:54:13.302923+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капъкуле (TR)",
+                "headline": "📰 Страшен взрив на границата: Камион се превърна в пепел"
+            },
+            "links": [
+                {
+                    "url": "https://www.haberler.com/3-sayfa/kapikule-sinir-kapisi-nda-tirda-patlama-yangin-korku-yaratti-19676997-haberi/",
+                    "domain": "haberler.com"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-21T10:31:04.651928+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Тир с текстил изгоря на „Капитан Андреево“"
+            },
+            "links": [
+                {
+                    "url": "https://nova.bg/news/view/2026/03/21/531104/%D1%82%D0%B8%D1%80-%D1%81-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B8%D0%BB-%D0%B8%D0%B7%D0%B3%D0%BE%D1%80%D1%8F-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BE/",
+                    "domain": "nova.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-21T10:24:02.527163+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Камион изгоря на граничния пункт \"Капитан Андреево\""
+            },
+            "links": [
+                {
+                    "url": "https://www.24chasa.bg/bulgaria/article/22515093",
+                    "domain": "24chasa.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-21T10:10:06.604554+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Изгоря тир с текстил на ГКПП Капитан Андреево"
+            },
+            "links": [
+                {
+                    "url": "https://www.marica.bg/region/haskovo/izgorq-tir-s-tekstil-na-gkpp-kapitan-andreevo",
+                    "domain": "marica.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-21T09:40:47.186867+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Губернаторът на Къркларели Туран празнува с Мехметчик на граничната станция"
+            },
+            "links": [
+                {
+                    "url": "https://www.haberler.com/yerel/kirklareli-valisi-ugur-turan-sinirda-mehmetciklerle-bayramlasti-19675391-haberi/",
+                    "domain": "haberler.com"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-20T14:23:27.786958+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Досегашният директор на ОДМВР в Сливен ст. комисар Димитър Величков напуска системата на МВР с почетно отличие \"За доблест и заслуги\""
+            },
+            "links": [
+                {
+                    "url": "https://www.24chasa.bg/bulgaria/article/22511583",
+                    "domain": "24chasa.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-20T14:16:25.689861+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Оставиха в ареста обвиненият в контрабанда на 14 кг синтетична дрога през „Капитан Андреево“"
+            },
+            "links": [
+                {
+                    "url": "https://www.24chasa.bg/bulgaria/article/22511582",
+                    "domain": "24chasa.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-20T12:51:55.177878+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Над 34 500 души са изразили желание да гласуват в чужбина на избори през април"
+            },
+            "links": [
+                {
+                    "url": "https://www.novinite.bg/articles/282085/nad-34-500-dushi-sa-izrazili-zhelanie-da-glasuvat-v-chuzhbina-na-izbori-prez-april",
+                    "domain": "novinite.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-20T10:31:03.300984+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Оставиха за постоянно в ареста тираджия с дрога за 86 633 евро"
+            },
+            "links": [
+                {
+                    "url": "https://www.marica.bg/region/haskovo/ostaviha-za-postoqnno-v-aresta-tiradjiq-s-droga-za-86-633-evro",
+                    "domain": "marica.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-20T09:56:04.162489+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капъкуле (TR)",
+                "headline": "📰 Шофьорите на камиони празнуват празника си по пътищата"
+            },
+            "links": [
+                {
+                    "url": "https://www.trthaber.com/haber/gundem/tir-soforlerinin-bayrami-yollarda-geciyor-938466.html",
+                    "domain": "trthaber.com"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-20T08:47:06.142963+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капъкуле (TR)",
+                "headline": "📰 Горчив празник за шофьорите на камиони в Капъкуле"
+            },
+            "links": [
+                {
+                    "url": "https://www.ntv.com.tr/turkiye/kapikulede-tir-soforlerinin-buruk-bayrami-1716729",
+                    "domain": "ntv.com.tr"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-19T15:49:45.419936+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Важно",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Турчин обвинен в опит за контрабанда на канабиноид за 87 000 евро от България"
+            },
+            "links": [
+                {
+                    "url": "https://www.bta.bg/en/news/bulgaria/1087677-turkish-man-charged-with-attempted-smuggling-of-eur-87-000-worth-of-cannabinoid-",
+                    "domain": "bta.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-19T15:20:53.254345+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Задържаха 38- годишен турчин с наркотик за 86 633 евро на Капитан Андреево"
+            },
+            "links": [
+                {
+                    "url": "https://www.marica.bg/region/haskovo/zadarjaha-38-godishen-turchin-s-narkotik-za-86-633-evro-na-kapitan-andreevo",
+                    "domain": "marica.bg"
+                }
+            ]
+        }
+    ],
+    "incident_clusters": [
+        {
+            "id": "cluster-1",
+            "first_seen_utc": "2026-03-25T18:10:50.143159+00:00",
+            "last_seen_utc": "2026-03-25T18:18:12.163110+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Важно",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Има ли нова мигрантска вълна по българо-турската граница? Властитепредприемат важни действия"
+            },
+            "incident_count": 2,
+            "source_count": 1,
+            "sources": [
+                "marica.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "marica.bg",
+                    "url": "https://www.marica.bg/balgariq/obshtestvo/ima-li-nova-migrantska-valna-po-balgaro-turskata-granica-vlastitepredpriemat-vajni-deystviq",
+                    "headline": "📰 Има ли нова мигрантска вълна по българо-турската граница? Властитепредприемат важни действия",
+                    "first_seen_utc": "2026-03-25T18:18:12.163110+00:00"
+                },
+                {
+                    "domain": "marica.bg",
+                    "url": "https://www.marica.bg/balgariq/obshtestvo/ima-li-nova-migrantska-valna-po-balgaro-turskata-granica-vlastite-sas-speshni-merki",
+                    "headline": "📰 Има ли нова мигрантска вълна по българо-турската граница? Властите със спешни мерки",
+                    "first_seen_utc": "2026-03-25T18:10:50.143159+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-2",
+            "first_seen_utc": "2026-03-25T11:58:34.363938+00:00",
+            "last_seen_utc": "2026-03-25T11:58:34.363938+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Важно за пътуващите с автомобили към Турция: Нова онлайн проверка пази от глоби и проблеми на границата"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "marica.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "marica.bg",
+                    "url": "https://www.marica.bg/svqt/vajno-za-patuvashtite-s-avtomobili-kam-turciq-nova-onlayn-proverka-pazi-ot-globi-i-problemi-na-granicata",
+                    "headline": "📰 Важно за пътуващите с автомобили към Турция: Нова онлайн проверка пази от глоби и проблеми на границата",
+                    "first_seen_utc": "2026-03-25T11:58:34.363938+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-3",
+            "first_seen_utc": "2026-03-25T10:44:06.768119+00:00",
+            "last_seen_utc": "2026-03-25T10:44:06.768119+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Петима души са задържани за фалшивите 1,2 млн. евробанкноти"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "nova.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "nova.bg",
+                    "url": "https://nova.bg/news/view/2026/03/25/531521/%D0%BF%D0%B5%D1%82%D0%B8%D0%BC%D0%B0-%D0%B4%D1%83%D1%88%D0%B8-%D1%81%D0%B0-%D0%B7%D0%B0%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8-%D0%B7%D0%B0-%D1%84%D0%B0%D0%BB%D1%88%D0%B8%D0%B2%D0%B8%D1%82%D0%B5-12-%D0%BC%D0%BB%D0%BD-%D0%B5%D0%B2%D1%80%D0%BE%D0%B1%D0%B0%D0%BD%D0%BA%D0%BD%D0%BE%D1%82%D0%B8/",
+                    "headline": "📰 Петима души са задържани за фалшивите 1,2 млн. евробанкноти",
+                    "first_seen_utc": "2026-03-25T10:44:06.768119+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-4",
+            "first_seen_utc": "2026-03-24T05:43:06.818923+00:00",
+            "last_seen_utc": "2026-03-25T08:46:21.756427+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Важно",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Интензивен е трафикът на изхода за камиони на \"Капитан Андреево\" и \"Лесово\""
+            },
+            "incident_count": 2,
+            "source_count": 1,
+            "sources": [
+                "24chasa.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "24chasa.bg",
+                    "url": "https://www.24chasa.bg/spravochnik/article/22535954",
+                    "headline": "📰 Интензивен е трафикът за камиони на \"Капитан Андреево\" и \"Лесово\"",
+                    "first_seen_utc": "2026-03-25T08:46:21.756427+00:00"
+                },
+                {
+                    "domain": "24chasa.bg",
+                    "url": "https://www.24chasa.bg/spravochnik/article/22529622",
+                    "headline": "📰 Интензивен е трафикът на изхода за камиони на \"Капитан Андреево\" и \"Лесово\"",
+                    "first_seen_utc": "2026-03-24T05:43:06.818923+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-5",
+            "first_seen_utc": "2026-03-24T18:19:33.238846+00:00",
+            "last_seen_utc": "2026-03-24T18:19:33.238846+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Хасковският окръжен съд осъди сърбина за контрабанда на марихуана"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "bta.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "bta.bg",
+                    "url": "https://www.bta.bg/en/news/balkans/1090926-haskovo-district-court-sentences-serbian-for-marijuana-smuggling",
+                    "headline": "📰 Хасковският окръжен съд осъди сърбина за контрабанда на марихуана",
+                    "first_seen_utc": "2026-03-24T18:19:33.238846+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-6",
+            "first_seen_utc": "2026-03-24T15:03:18.425233+00:00",
+            "last_seen_utc": "2026-03-24T15:03:18.425233+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Разкрита е печатница за фалшиви евро в Румъния близо до българската граница"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "bta.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "bta.bg",
+                    "url": "https://www.bta.bg/en/news/bulgaria/1090819-counterfeit-euro-printing-facility-uncovered-in-romania-near-bulgarian-border",
+                    "headline": "📰 Разкрита е печатница за фалшиви евро в Румъния близо до българската граница",
+                    "first_seen_utc": "2026-03-24T15:03:18.425233+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-7",
+            "first_seen_utc": "2026-03-24T11:54:16.066837+00:00",
+            "last_seen_utc": "2026-03-24T11:54:16.066837+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: ГКПП Капъкуле (TR)",
+                "headline": "📰 53 килограма скункс иззети в Капъкуле"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "sondakika.com"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "sondakika.com",
+                    "url": "https://www.sondakika.com/guncel/haber-kapikule-de-53-kilo-skunk-ele-gecirildi-19684567/",
+                    "headline": "📰 53 килограма скункс иззети в Капъкуле",
+                    "first_seen_utc": "2026-03-24T11:54:16.066837+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-8",
+            "first_seen_utc": "2026-03-24T09:05:24.655570+00:00",
+            "last_seen_utc": "2026-03-24T09:05:24.655570+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Спряха го по подозрение, излязоха алпаки"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "ntv.com.tr"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "ntv.com.tr",
+                    "url": "https://www.ntv.com.tr/galeri/turkiye/suphe-uzerine-durduruldu-icinden-alpakalar-cikti-1717250",
+                    "headline": "📰 Спряха го по подозрение, излязоха алпаки",
+                    "first_seen_utc": "2026-03-24T09:05:24.655570+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-9",
+            "first_seen_utc": "2026-03-24T08:36:23.623643+00:00",
+            "last_seen_utc": "2026-03-24T08:36:23.623643+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Спрян е по съмнение, вътре са намерени алпаки"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "ntv.com.tr"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "ntv.com.tr",
+                    "url": "https://www.ntv.com.tr/galeri/turkiye/suphe-uzerine-durduruldu-icinde-alpakalar-cikti-1717250",
+                    "headline": "📰 Спрян е по съмнение, вътре са намерени алпаки",
+                    "first_seen_utc": "2026-03-24T08:36:23.623643+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-10",
+            "first_seen_utc": "2026-03-24T06:36:39.500902+00:00",
+            "last_seen_utc": "2026-03-24T06:44:18.592054+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Цяло богатство излезе от шоколадовата кутия! Дал всичките си спестявания на &quot;комшията&quot; остана"
+            },
+            "incident_count": 2,
+            "source_count": 1,
+            "sources": [
+                "haberler.com"
+            ],
+            "cluster_confidence": 0.75,
+            "articles": [
+                {
+                    "domain": "haberler.com",
+                    "url": "https://www.haberler.com/3-sayfa/edirne-kapikule-de-tir-surucusunde-220-bin-euro-ele-gecirildi-19683117-haberi/",
+                    "headline": "📰 Цяло богатство излезе от шоколадовата кутия! Дал всичките си спестявания на &quot;комшията&quot; остана",
+                    "first_seen_utc": "2026-03-24T06:44:18.592054+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-11",
+            "first_seen_utc": "2026-03-24T06:28:48.897156+00:00",
+            "last_seen_utc": "2026-03-24T06:36:46.705075+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 &quot;Има шоколад&quot; Той каза, че от това излезе цяло състояние! Заловен на влизане в Турция"
+            },
+            "incident_count": 2,
+            "source_count": 2,
+            "sources": [
+                "haberler.com",
+                "sondakika.com"
+            ],
+            "cluster_confidence": 0.86,
+            "articles": [
+                {
+                    "domain": "sondakika.com",
+                    "url": "https://www.sondakika.com/3-sayfa/haber-edirne-sinirinda-220-bin-euro-yakalandi-19683129/",
+                    "headline": "📰 &apos;&apos;Има шоколад&apos;&apos; Той каза, че от това излезе цяло състояние! Заловен на влизане в Турция",
+                    "first_seen_utc": "2026-03-24T06:36:46.705075+00:00"
+                },
+                {
+                    "domain": "haberler.com",
+                    "url": "https://www.haberler.com/3-sayfa/edirne-kapikule-de-tir-surucusunde-220-bin-euro-ele-gecirildi-19683117-haberi/",
+                    "headline": "📰 &quot;Има шоколад&quot; Той каза, че от това излезе цяло състояние! Заловен на влизане в Турция",
+                    "first_seen_utc": "2026-03-24T06:28:48.897156+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-12",
+            "first_seen_utc": "2026-03-24T05:21:30.291336+00:00",
+            "last_seen_utc": "2026-03-24T06:13:34.720737+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: ГКПП Капъкуле (TR)",
+                "headline": "📰 В камиона в торба, пълна с шоколадови бонбони, са открити бали с евро"
+            },
+            "incident_count": 2,
+            "source_count": 2,
+            "sources": [
+                "ensonhaber.com",
+                "ntv.com.tr"
+            ],
+            "cluster_confidence": 0.82,
+            "articles": [
+                {
+                    "domain": "ensonhaber.com",
+                    "url": "https://www.haberler.com/3-sayfa/edirne-kapikule-de-tir-surucusunde-220-bin-euro-ele-gecirildi-19683117-haberi/",
+                    "headline": "📰 220 хил. евро бяха открити в торба, пълна с шоколадови бонбони",
+                    "first_seen_utc": "2026-03-24T06:13:34.720737+00:00"
+                },
+                {
+                    "domain": "ntv.com.tr",
+                    "url": "https://www.ntv.com.tr/turkiye/tirdaki-cikolata-dolu-cantadan-balya-balya-euro-cikti-1717206",
+                    "headline": "📰 В камиона в торба, пълна с шоколадови бонбони, са открити бали с евро",
+                    "first_seen_utc": "2026-03-24T05:21:30.291336+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-13",
+            "first_seen_utc": "2026-03-23T16:21:15.351667+00:00",
+            "last_seen_utc": "2026-03-23T16:21:15.351667+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Недекларирани 220 000 евро, скрити в чанта с шоколади, задържаха на \"Капитан Андреево\" (Видео, снимки)"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "24chasa.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "24chasa.bg",
+                    "url": "https://www.24chasa.bg/bulgaria/article/22527672",
+                    "headline": "📰 Недекларирани 220 000 евро, скрити в чанта с шоколади, задържаха на \"Капитан Андреево\" (Видео, снимки)",
+                    "first_seen_utc": "2026-03-23T16:21:15.351667+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-14",
+            "first_seen_utc": "2026-03-23T14:21:49.627744+00:00",
+            "last_seen_utc": "2026-03-23T14:21:49.627744+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 220 000 евро сред шоколади намериха митничари на Капитан Андреево"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "marica.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "marica.bg",
+                    "url": "https://www.marica.bg/region/haskovo/220-000-evro-sred-shokoladi-nameriha-mitnichari-na-kapitan-andreevo",
+                    "headline": "📰 220 000 евро сред шоколади намериха митничари на Капитан Андреево",
+                    "first_seen_utc": "2026-03-23T14:21:49.627744+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-15",
+            "first_seen_utc": "2026-03-23T12:31:32.857957+00:00",
+            "last_seen_utc": "2026-03-23T12:31:32.857957+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капъкуле (TR)",
+                "headline": "📰 Няма планове за нов граничен пункт между България и Турция, фокусът остава върху разширяването на съществуващия капацитет, казва ръководителят на граничната полиция"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "bta.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "bta.bg",
+                    "url": "https://www.bta.bg/en/news/bulgaria/1089916-no-plans-for-new-bulgaria-turkiye-border-crossing-focus-remains-on-expanding-ex",
+                    "headline": "📰 Няма планове за нов граничен пункт между България и Турция, фокусът остава върху разширяването на съществуващия капацитет, казва ръководителят на граничната полиция",
+                    "first_seen_utc": "2026-03-23T12:31:32.857957+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-16",
+            "first_seen_utc": "2026-03-23T10:59:26.421762+00:00",
+            "last_seen_utc": "2026-03-23T11:13:37.938523+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 БАБХ иззе над 200 кг храни без документи на ГКПП „Капитан Андреево“"
+            },
+            "incident_count": 2,
+            "source_count": 1,
+            "sources": [
+                "nova.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "nova.bg",
+                    "url": "https://nova.bg/news/view/2026/03/23/531255/%D0%B1%D0%B0%D0%B1%D1%85-%D0%B8%D0%B7%D0%B7%D0%B5-%D0%BD%D0%B0%D0%B4-200-%D0%BA%D0%B3-%D1%85%D1%80%D0%B0%D0%BD%D0%B8-%D0%B1%D0%B5%D0%B7-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BE/",
+                    "headline": "📰 БАБХ иззе над 200 кг храни без документи на „Капитан Андреево“",
+                    "first_seen_utc": "2026-03-23T11:13:37.938523+00:00"
+                },
+                {
+                    "domain": "nova.bg",
+                    "url": "https://nova.bg/news/view/2026/03/23/531255/%D0%B1%D0%B0%D0%B1%D1%85-%D0%B8%D0%B7%D0%B7%D0%B5-%D0%BD%D0%B0%D0%B4-200-%D0%BA%D0%B3-%D1%85%D1%80%D0%B0%D0%BD%D0%B8-%D0%B1%D0%B5%D0%B7-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8-%D0%BD%D0%B0-%D0%B3%D0%BA%D0%BF%D0%BF-%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BE/",
+                    "headline": "📰 БАБХ иззе над 200 кг храни без документи на ГКПП „Капитан Андреево“",
+                    "first_seen_utc": "2026-03-23T10:59:26.421762+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-17",
+            "first_seen_utc": "2026-03-23T05:38:28.923616+00:00",
+            "last_seen_utc": "2026-03-23T05:38:28.923616+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Ветеринарните власти с мерки срещу разпространението на шарка и шап по животните"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "fakti.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "fakti.bg",
+                    "url": "https://fakti.bg/bulgaria/1043461-slug-for-change",
+                    "headline": "📰 Ветеринарните власти с мерки срещу разпространението на шарка и шап по животните",
+                    "first_seen_utc": "2026-03-23T05:38:28.923616+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-18",
+            "first_seen_utc": "2026-03-23T05:24:36.115639+00:00",
+            "last_seen_utc": "2026-03-23T05:24:36.115639+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Над 42 000 души са подали заявления за гласуване в чужбина на парламентарния вот"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "fakti.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "fakti.bg",
+                    "url": "https://fakti.bg/bulgaria/1043460-slug-for-change",
+                    "headline": "📰 Над 42 000 души са подали заявления за гласуване в чужбина на парламентарния вот",
+                    "first_seen_utc": "2026-03-23T05:24:36.115639+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-19",
+            "first_seen_utc": "2026-03-23T04:31:20.194180+00:00",
+            "last_seen_utc": "2026-03-23T04:31:20.194180+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 На граничния пункт имаше блъсканица, тъй като хиляди турци се стичаха да пътуват без виза."
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "sozcu.com.tr"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "sozcu.com.tr",
+                    "url": "https://www.sozcu.com.tr/binlerce-turk-vizesiz-seyahat-icin-akin-edince-sinir-kapisinda-izdiham-yasandi-p303773",
+                    "headline": "📰 На граничния пункт имаше блъсканица, тъй като хиляди турци се стичаха да пътуват без виза.",
+                    "first_seen_utc": "2026-03-23T04:31:20.194180+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-20",
+            "first_seen_utc": "2026-03-22T10:33:36.772356+00:00",
+            "last_seen_utc": "2026-03-22T10:33:36.772356+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Eдирне (TR)",
+                "headline": "📰 Ние сме като минаващ хан! 11 нелегални имигранти са заловени в Одрин и Къркларели"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "milligazete.com.tr"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "milligazete.com.tr",
+                    "url": "https://www.milligazete.com.tr/yol-gecen-hani-gibiyiz-edirne-ve-kirklarelinde-11-duzensiz-gocmen-yakalandi-1",
+                    "headline": "📰 Ние сме като минаващ хан! 11 нелегални имигранти са заловени в Одрин и Къркларели",
+                    "first_seen_utc": "2026-03-22T10:33:36.772356+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-21",
+            "first_seen_utc": "2026-03-22T10:32:56.340420+00:00",
+            "last_seen_utc": "2026-03-22T10:32:56.340420+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Eдирне (TR)",
+                "headline": "📰 Заловени са 33 нелегални имигранти"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "sondakika.com"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "sondakika.com",
+                    "url": "https://www.haberturk.com/mugla-da-33-duzensiz-gocmen-yakalandi-3871297",
+                    "headline": "📰 Заловени са 33 нелегални имигранти",
+                    "first_seen_utc": "2026-03-22T10:32:56.340420+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-22",
+            "first_seen_utc": "2026-03-21T18:05:06.410793+00:00",
+            "last_seen_utc": "2026-03-21T18:05:06.410793+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Чистката в МВР продължава: Шефът на \"Вътрешна сигурност\" ст. комисар Даниел Луков е уволнен"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "marica.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "marica.bg",
+                    "url": "https://www.marica.bg/balgariq/vlast/chistkata-v-mvr-prodaljava-shefat-na-vatreshna-sigurnost-st-komisar-daniel-lukov-e-uvolnen",
+                    "headline": "📰 Чистката в МВР продължава: Шефът на \"Вътрешна сигурност\" ст. комисар Даниел Луков е уволнен",
+                    "first_seen_utc": "2026-03-21T18:05:06.410793+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-23",
+            "first_seen_utc": "2026-03-21T17:58:05.134229+00:00",
+            "last_seen_utc": "2026-03-21T17:58:05.134229+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Тир с текстил изгоря на „Капитан Андреево“, разследва се проява на небрежност"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "nova.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "nova.bg",
+                    "url": "https://nova.bg/news/view/2026/03/21/531104/%D1%82%D0%B8%D1%80-%D1%81-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B8%D0%BB-%D0%B8%D0%B7%D0%B3%D0%BE%D1%80%D1%8F-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BE-%D1%80%D0%B0%D0%B7%D1%81%D0%BB%D0%B5%D0%B4%D0%B2%D0%B0-%D1%81%D0%B5-%D0%BF%D1%80%D0%BE%D1%8F%D0%B2%D0%B0-%D0%BD%D0%B0-%D0%BD%D0%B5%D0%B1%D1%80%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82/",
+                    "headline": "📰 Тир с текстил изгоря на „Капитан Андреево“, разследва се проява на небрежност",
+                    "first_seen_utc": "2026-03-21T17:58:05.134229+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-24",
+            "first_seen_utc": "2026-03-21T15:50:00.256104+00:00",
+            "last_seen_utc": "2026-03-21T15:50:00.256104+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Прокуратурата разследва пожар по непредпазливост на ГКПП \"Капитан Андреево\""
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "24chasa.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "24chasa.bg",
+                    "url": "https://www.24chasa.bg/bulgaria/article/22516717",
+                    "headline": "📰 Прокуратурата разследва пожар по непредпазливост на ГКПП \"Капитан Андреево\"",
+                    "first_seen_utc": "2026-03-21T15:50:00.256104+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-25",
+            "first_seen_utc": "2026-03-21T15:09:11.502931+00:00",
+            "last_seen_utc": "2026-03-21T15:09:11.502931+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Важно",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Министър Дечев: Миграционната обстановка по границата ни е спокойна"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "fakti.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "fakti.bg",
+                    "url": "https://fakti.bg/bulgaria/1043146-ministar-dechev-migracionnata-obstanovka-po-granicata-ni-e-spokoina",
+                    "headline": "📰 Министър Дечев: Миграционната обстановка по границата ни е спокойна",
+                    "first_seen_utc": "2026-03-21T15:09:11.502931+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-26",
+            "first_seen_utc": "2026-03-21T14:35:20.676665+00:00",
+            "last_seen_utc": "2026-03-21T14:35:20.676665+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Миграционната обстановка по държавната граница в момента е спокойна, каза вътрешният министър Дечев"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "bta.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "bta.bg",
+                    "url": "https://www.bta.bg/en/news/bulgaria/1089050-migration-situation-along-state-border-is-currently-calm-interior-minister-dech",
+                    "headline": "📰 Миграционната обстановка по държавната граница в момента е спокойна, каза вътрешният министър Дечев",
+                    "first_seen_utc": "2026-03-21T14:35:20.676665+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-27",
+            "first_seen_utc": "2026-03-21T14:35:14.742448+00:00",
+            "last_seen_utc": "2026-03-21T14:35:14.742448+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 ТИР изгоря на Капитан Андреево“, при пожара е повредена и скъпа апаратура"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "fakti.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "fakti.bg",
+                    "url": "https://fakti.bg/bulgaria/1043144-tir-izgora-na-kapitan-andreevo-pri-pojara-e-povredena-i-skapa-aparatura",
+                    "headline": "📰 ТИР изгоря на Капитан Андреево“, при пожара е повредена и скъпа апаратура",
+                    "first_seen_utc": "2026-03-21T14:35:14.742448+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-28",
+            "first_seen_utc": "2026-03-21T14:21:48.402733+00:00",
+            "last_seen_utc": "2026-03-21T14:21:48.402733+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капъкуле (TR)",
+                "headline": "📰 Експлозия на граничния пункт в Одрин е заснета от камера"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "ensonhaber.com"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "ensonhaber.com",
+                    "url": "https://www.ensonhaber.com/dunya/edirnede-sinir-kapisinda-patlama-kamerada",
+                    "headline": "📰 Експлозия на граничния пункт в Одрин е заснета от камера",
+                    "first_seen_utc": "2026-03-21T14:21:48.402733+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-29",
+            "first_seen_utc": "2026-03-21T14:01:36.101604+00:00",
+            "last_seen_utc": "2026-03-21T14:01:36.101604+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Министър Дечев: Миграционния натиск към държавната граница на България е нисък"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "24chasa.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "24chasa.bg",
+                    "url": "https://www.24chasa.bg/bulgaria/article/22516201",
+                    "headline": "📰 Министър Дечев: Миграционния натиск към държавната граница на България е нисък",
+                    "first_seen_utc": "2026-03-21T14:01:36.101604+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-30",
+            "first_seen_utc": "2026-03-21T14:01:30.136683+00:00",
+            "last_seen_utc": "2026-03-21T14:01:30.136683+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Eдирне (TR)",
+                "headline": "📰 Експлозия на граничния пункт Одрин"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "sondakika.com"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "sondakika.com",
+                    "url": "https://www.sondakika.com/3-sayfa/haber-edirne-sinir-kapisinda-patlama-19677035/",
+                    "headline": "📰 Експлозия на граничния пункт Одрин",
+                    "first_seen_utc": "2026-03-21T14:01:30.136683+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-31",
+            "first_seen_utc": "2026-03-21T14:01:22.672199+00:00",
+            "last_seen_utc": "2026-03-21T14:01:22.672199+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капъкуле (TR)",
+                "headline": "📰 Превозното средство, което не успя да вземе завоя, влезе в бариерите"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "haberler.com"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "haberler.com",
+                    "url": "https://www.haberler.com/3-sayfa/edirne-de-direksiyon-hakimiyetini-kaybeden-arac-bariyerlere-carpti-19677021-haberi/",
+                    "headline": "📰 Превозното средство, което не успя да вземе завоя, влезе в бариерите",
+                    "first_seen_utc": "2026-03-21T14:01:22.672199+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-32",
+            "first_seen_utc": "2026-03-21T13:54:13.302923+00:00",
+            "last_seen_utc": "2026-03-21T13:54:13.302923+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капъкуле (TR)",
+                "headline": "📰 Страшен взрив на границата: Камион се превърна в пепел"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "haberler.com"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "haberler.com",
+                    "url": "https://www.haberler.com/3-sayfa/kapikule-sinir-kapisi-nda-tirda-patlama-yangin-korku-yaratti-19676997-haberi/",
+                    "headline": "📰 Страшен взрив на границата: Камион се превърна в пепел",
+                    "first_seen_utc": "2026-03-21T13:54:13.302923+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-33",
+            "first_seen_utc": "2026-03-21T10:10:06.604554+00:00",
+            "last_seen_utc": "2026-03-21T10:31:04.651928+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Изгоря тир с текстил на ГКПП Капитан Андреево"
+            },
+            "incident_count": 2,
+            "source_count": 2,
+            "sources": [
+                "marica.bg",
+                "nova.bg"
+            ],
+            "cluster_confidence": 0.85,
+            "articles": [
+                {
+                    "domain": "nova.bg",
+                    "url": "https://nova.bg/news/view/2026/03/21/531104/%D1%82%D0%B8%D1%80-%D1%81-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B8%D0%BB-%D0%B8%D0%B7%D0%B3%D0%BE%D1%80%D1%8F-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BE/",
+                    "headline": "📰 Тир с текстил изгоря на „Капитан Андреево“",
+                    "first_seen_utc": "2026-03-21T10:31:04.651928+00:00"
+                },
+                {
+                    "domain": "marica.bg",
+                    "url": "https://www.marica.bg/region/haskovo/izgorq-tir-s-tekstil-na-gkpp-kapitan-andreevo",
+                    "headline": "📰 Изгоря тир с текстил на ГКПП Капитан Андреево",
+                    "first_seen_utc": "2026-03-21T10:10:06.604554+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-34",
+            "first_seen_utc": "2026-03-21T10:24:02.527163+00:00",
+            "last_seen_utc": "2026-03-21T10:24:02.527163+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Камион изгоря на граничния пункт \"Капитан Андреево\""
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "24chasa.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "24chasa.bg",
+                    "url": "https://www.24chasa.bg/bulgaria/article/22515093",
+                    "headline": "📰 Камион изгоря на граничния пункт \"Капитан Андреево\"",
+                    "first_seen_utc": "2026-03-21T10:24:02.527163+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-35",
+            "first_seen_utc": "2026-03-21T09:40:47.186867+00:00",
+            "last_seen_utc": "2026-03-21T09:40:47.186867+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Губернаторът на Къркларели Туран празнува с Мехметчик на граничната станция"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "haberler.com"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "haberler.com",
+                    "url": "https://www.haberler.com/yerel/kirklareli-valisi-ugur-turan-sinirda-mehmetciklerle-bayramlasti-19675391-haberi/",
+                    "headline": "📰 Губернаторът на Къркларели Туран празнува с Мехметчик на граничната станция",
+                    "first_seen_utc": "2026-03-21T09:40:47.186867+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-36",
+            "first_seen_utc": "2026-03-20T14:23:27.786958+00:00",
+            "last_seen_utc": "2026-03-20T14:23:27.786958+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Досегашният директор на ОДМВР в Сливен ст. комисар Димитър Величков напуска системата на МВР с почетно отличие \"За доблест и заслуги\""
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "24chasa.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "24chasa.bg",
+                    "url": "https://www.24chasa.bg/bulgaria/article/22511583",
+                    "headline": "📰 Досегашният директор на ОДМВР в Сливен ст. комисар Димитър Величков напуска системата на МВР с почетно отличие \"За доблест и заслуги\"",
+                    "first_seen_utc": "2026-03-20T14:23:27.786958+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-37",
+            "first_seen_utc": "2026-03-20T14:16:25.689861+00:00",
+            "last_seen_utc": "2026-03-20T14:16:25.689861+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Оставиха в ареста обвиненият в контрабанда на 14 кг синтетична дрога през „Капитан Андреево“"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "24chasa.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "24chasa.bg",
+                    "url": "https://www.24chasa.bg/bulgaria/article/22511582",
+                    "headline": "📰 Оставиха в ареста обвиненият в контрабанда на 14 кг синтетична дрога през „Капитан Андреево“",
+                    "first_seen_utc": "2026-03-20T14:16:25.689861+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-38",
+            "first_seen_utc": "2026-03-20T12:51:55.177878+00:00",
+            "last_seen_utc": "2026-03-20T12:51:55.177878+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Над 34 500 души са изразили желание да гласуват в чужбина на избори през април"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "novinite.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "novinite.bg",
+                    "url": "https://www.novinite.bg/articles/282085/nad-34-500-dushi-sa-izrazili-zhelanie-da-glasuvat-v-chuzhbina-na-izbori-prez-april",
+                    "headline": "📰 Над 34 500 души са изразили желание да гласуват в чужбина на избори през април",
+                    "first_seen_utc": "2026-03-20T12:51:55.177878+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-39",
+            "first_seen_utc": "2026-03-20T10:31:03.300984+00:00",
+            "last_seen_utc": "2026-03-20T10:31:03.300984+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Оставиха за постоянно в ареста тираджия с дрога за 86 633 евро"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "marica.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "marica.bg",
+                    "url": "https://www.marica.bg/region/haskovo/ostaviha-za-postoqnno-v-aresta-tiradjiq-s-droga-za-86-633-evro",
+                    "headline": "📰 Оставиха за постоянно в ареста тираджия с дрога за 86 633 евро",
+                    "first_seen_utc": "2026-03-20T10:31:03.300984+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-40",
+            "first_seen_utc": "2026-03-20T09:56:04.162489+00:00",
+            "last_seen_utc": "2026-03-20T09:56:04.162489+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капъкуле (TR)",
+                "headline": "📰 Шофьорите на камиони празнуват празника си по пътищата"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "trthaber.com"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "trthaber.com",
+                    "url": "https://www.trthaber.com/haber/gundem/tir-soforlerinin-bayrami-yollarda-geciyor-938466.html",
+                    "headline": "📰 Шофьорите на камиони празнуват празника си по пътищата",
+                    "first_seen_utc": "2026-03-20T09:56:04.162489+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-41",
+            "first_seen_utc": "2026-03-20T08:47:06.142963+00:00",
+            "last_seen_utc": "2026-03-20T08:47:06.142963+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: ГКПП Капъкуле (TR)",
+                "headline": "📰 Горчив празник за шофьорите на камиони в Капъкуле"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "ntv.com.tr"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "ntv.com.tr",
+                    "url": "https://www.ntv.com.tr/turkiye/kapikulede-tir-soforlerinin-buruk-bayrami-1716729",
+                    "headline": "📰 Горчив празник за шофьорите на камиони в Капъкуле",
+                    "first_seen_utc": "2026-03-20T08:47:06.142963+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-42",
+            "first_seen_utc": "2026-03-19T15:49:45.419936+00:00",
+            "last_seen_utc": "2026-03-19T15:49:45.419936+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Важно",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Турчин обвинен в опит за контрабанда на канабиноид за 87 000 евро от България"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "bta.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "bta.bg",
+                    "url": "https://www.bta.bg/en/news/bulgaria/1087677-turkish-man-charged-with-attempted-smuggling-of-eur-87-000-worth-of-cannabinoid-",
+                    "headline": "📰 Турчин обвинен в опит за контрабанда на канабиноид за 87 000 евро от България",
+                    "first_seen_utc": "2026-03-19T15:49:45.419936+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-43",
+            "first_seen_utc": "2026-03-19T15:20:53.254345+00:00",
+            "last_seen_utc": "2026-03-19T15:20:53.254345+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Задържаха 38- годишен турчин с наркотик за 86 633 евро на Капитан Андреево"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "marica.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "marica.bg",
+                    "url": "https://www.marica.bg/region/haskovo/zadarjaha-38-godishen-turchin-s-narkotik-za-86-633-evro-na-kapitan-andreevo",
+                    "headline": "📰 Задържаха 38- годишен турчин с наркотик за 86 633 евро на Капитан Андреево",
+                    "first_seen_utc": "2026-03-19T15:20:53.254345+00:00"
+                }
+            ]
+        }
+    ]
+}

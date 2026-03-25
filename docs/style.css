@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+:root {
+    --bg-color: #1a1a1a;
+    --card-color: #2a2a2a;
+    --border-color: #444;
+    --text-color: #e0e0e0;
+    --text-muted-color: #999;
+    --accent-color: #00aaff;
+    --critical-color: #ff4d4d;
+    --important-color: #ffcc00;
+    --info-color: #00cc66;
+    --font-family: 'Inter', sans-serif;
+}
+
+body {
+    font-family: var(--font-family);
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+header, footer {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header p, #last-updated {
+    color: var(--text-muted-color);
+    font-size: 1.1em;
+}
+
+main {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.container {
+    background-color: var(--card-color);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    border-bottom: 2px solid var(--accent-color);
+    padding-bottom: 10px;
+    margin-top: 0;
+}
+
+.chart-container {
+    position: relative;
+    height: 400px;
+    width: 100%;
+}
+
+#incident-feed {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.controls {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+}
+
+.controls select,
+.controls input {
+    background: #333;
+    border: 1px solid var(--border-color);
+    color: var(--text-color);
+    padding: 8px 10px;
+    border-radius: 6px;
+    font-family: var(--font-family);
+}
+
+.controls input {
+    min-width: 280px;
+}
+
+.incident-card {
+    background-color: #333;
+    border-left: 5px solid var(--info-color);
+    border-radius: 5px;
+    padding: 15px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.incident-card:hover {
+    transform: translateY(-3px);
+}
+
+.incident-card.status-Критично { border-color: var(--critical-color); }
+.incident-card.status-Важно { border-color: var(--important-color); }
+.incident-card.status-Информация { border-color: var(--info-color); }
+
+.incident-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.9em;
+    color: var(--text-muted-color);
+    margin-bottom: 10px;
+}
+
+.incident-header .status {
+    font-weight: 700;
+}
+
+.status-Критично .status { color: var(--critical-color); }
+.status-Важно .status { color: var(--important-color); }
+.status-Информация .status { color: var(--info-color); }
+
+.incident-body h3 {
+    margin: 0 0 10px 0;
+    font-size: 1.2em;
+}
+
+.incident-links {
+    margin-top: 15px;
+    font-size: 0.9em;
+}
+
+.incident-links a {
+    color: var(--accent-color);
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+.incident-links a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    font-size: 0.9em;
+    color: #777;
+}
+
+/* Skeleton loader for initial loading state */
+.skeleton-loader {
+    background-color: #333;
+    border-radius: 5px;
+    padding: 15px;
+    height: 120px;
+    background: linear-gradient(90deg, #333 25%, #444 50%, #333 75%);
+    background-size: 200% 100%;
+    animation: loading 1.5s infinite;
+}
+
+@keyframes loading {
+    0% {
+        background-position: 200% 0;
+    }
+    100% {
+        background-position: -200% 0;
+    }
+}

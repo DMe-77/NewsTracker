@@ -1,0 +1,1869 @@
+[
+  {
+    "id": "f5d8565cd501",
+    "timestamp": "2026-03-13T06:30:31.209410+00:00",
+    "date": "13.03.2026",
+    "time": "06:30",
+    "status": "Критично",
+    "location": "Капитан Андреево",
+    "type": "наркотици",
+    "headline": "Резюме: На ГКПП Капитан Андреево са иззети 11 кг кокаин и 5 кг злато скрити в камион с цветя. Задържан е шофьорът — турски гражданин.",
+    "sources": [
+      "haberler.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.haberler.com/3-sayfa/aydin-da-kenevir-yetistiren-sahis-yakalandi-19652892-haberi/"
+  },
+  {
+    "id": "69f7f6d1a184",
+    "timestamp": "2026-03-13T10:09:40.937803+00:00",
+    "date": "13.03.2026",
+    "time": "10:09",
+    "status": "Информация",
+    "location": "ГКПП Малко Търново",
+    "type": "друго",
+    "headline": "Резюме: ГКПП Малко Търново между Турция и България беше оснащено с нова електронна техника в рамки на проекта за безопасни граници между Турция и България, върху програмата за гранична съседство Търция-България. Участвателите в проекта са областите Киркларели и Эдирне и регионалните директории на Министерството на вътрешните работи на България в Хасково, Ямбол и Бургас.",
+    "sources": [
+      "bta.bg"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 0,
+      "en": 1
+    },
+    "confirmed": false,
+    "link": "https://www.bta.bg/en/news/balkans/1082946-derekoy-malko-tarnovo-border-crossing-gets-new-electronic-equipment"
+  },
+  {
+    "id": "87e231eed028",
+    "timestamp": "2026-03-13T10:47:42.376168+00:00",
+    "date": "13.03.2026",
+    "time": "10:47",
+    "status": "Информация",
+    "location": "Граница между България и Турция (област Пазарджик)",
+    "type": "задържане",
+    "headline": "Резюме: Служители от сектор \"Противодействие на криминалната престъпност\" при ОДМВР-Пазарджик, подпомогнати от автопатрулни екипи на РУ-Пазарджик, задържали четирима лица, обвинени в трафик на дрога през изминалото денонощие.",
+    "sources": [
+      "marica.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.marica.bg/region/pazardjik/chetirima-s-droga-sa-zadarjani-ot-policiqta-prez-izminaloto-denonoshtie"
+  },
+  {
+    "id": "c09ab459d63f",
+    "timestamp": "2026-03-14T03:10:11.910939+00:00",
+    "date": "14.03.2026",
+    "time": "03:10",
+    "status": "Информация",
+    "location": "Граница между България и Турция в район на ГКПП Капитан Андреево",
+    "type": "контрабанда",
+    "headline": "Резюме: България и Турция изготвят договор за отваряне на нов граничен контролен пункт в район на Капитан Андреево, който ще допринесе за по-ефективно движение на товари към Европа и ще подобри условията за комерцен трафик.",
+    "sources": [
+      "haberler.com",
+      "trthaber.com",
+      "ntv.com.tr"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 4,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.trthaber.com/haber/ekonomi/bakan-bolat-kapikulenin-kuzeyinde-yeni-bir-gumruk-kapisi-acacagiz-937712.html"
+  },
+  {
+    "id": "876ce8d04b69",
+    "timestamp": "2026-03-14T05:54:59.791157+00:00",
+    "date": "14.03.2026",
+    "time": "05:54",
+    "status": "Информация",
+    "location": "Граница между България и Турия в околнината на ГКПП Капитан Андреево",
+    "type": "контрабанда",
+    "headline": "Резюме: Българският парламент е одобрил предложение за отваряне на нов гранично пребоя на хоризонтално ниво в съседство с ГКПП Капитан Андреево, за целите на подобряване на двустранната търговия между двете страни.",
+    "sources": [
+      "ensonhaber.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.ensonhaber.com/ekonomi/kapikulenin-kuzeyinde-yeni-bir-gumruk-kapisi-daha-acilacak"
+  },
+  {
+    "id": "a1c925c2ac14",
+    "timestamp": "2026-03-14T06:34:21.188263+00:00",
+    "date": "14.03.2026",
+    "time": "06:34",
+    "status": "Информация",
+    "location": "ГКПП Капитан Андреево",
+    "type": "друго",
+    "headline": "Резюме: Трафикът на ГКПП „Капитан Андреево“ е интензивен на изход към Турция за товарни автомобили. Данните са предоставени от Главна дирекция „Гранична полиция“ – МВР. На границата с Румъния трафикът е нормален.",
+    "sources": [
+      "24chasa.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.24chasa.bg/spravochnik/article/22467241"
+  },
+  {
+    "id": "f35343a897fa",
+    "timestamp": "2026-03-14T06:58:00.328941+00:00",
+    "date": "14.03.2026",
+    "time": "06:58",
+    "status": "Информация",
+    "location": "Граница между България и Търция (около ГКПП Капитан Андреево и ГКПП Лесово)",
+    "type": "миграция",
+    "headline": "Резюме: В Търция са задържани 8 нелегални мигранта в областта на Едирне и Киркларели, които се полагаха да преминат в Европа. Това показва, че границата между България и Търция все още е важна траектория за нелегална миграция.",
+    "sources": [
+      "milligazete.com.tr"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.milligazete.com.tr/yol-gecen-hani-olduk-edirne-ve-kirklarelinde-8-duzensiz-gocmen-yakalandi"
+  },
+  {
+    "id": "2b1e1034dea6",
+    "timestamp": "2026-03-14T07:06:21.626995+00:00",
+    "date": "14.03.2026",
+    "time": "07:06",
+    "status": "Информация",
+    "location": "Близо до българо-турската граница (ГКПП Капитан Андреево и ГКПП Лесово)",
+    "type": "миграция",
+    "headline": "Резюме: В турския източник е споменато за задържане на 8 нелегални мигранта в областите на Эдирне и Кırklareli, които след търмосни процедури са предадени на центрове за връщане.",
+    "sources": [
+      "haberler.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.haberler.com/guncel/edirne-ve-kirklareli-nde-duzensiz-gocmen-yakalamalari-19656417-haberi/"
+  },
+  {
+    "id": "8b97883a4e1a",
+    "timestamp": "2026-03-14T07:14:46.127010+00:00",
+    "date": "14.03.2026",
+    "time": "07:14",
+    "status": "Информация",
+    "location": "Граничната зона между България и Турция (близо до ГКПП Капитан Андреево и ГКПП Лесово)",
+    "type": "миграция",
+    "headline": "Резюме: В граничните райони на Edirne и Kırklareli в Турция, сигурностните сили са задържали 8 нелегални мигранта. Нямаче предоставени детайли относно точната граница или пункти на пресече.",
+    "sources": [
+      "sondakika.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.sondakika.com/guncel/haber-edirne-ve-kirklareli-nde-8-duzensiz-gocmen-yakalan-19656440/"
+  },
+  {
+    "id": "4bdadf08b9ba",
+    "timestamp": "2026-03-14T07:30:54.640143+00:00",
+    "date": "14.03.2026",
+    "time": "07:30",
+    "status": "Критично",
+    "location": "Неопределена (търсене на дополнителна информация за конкретния ГКПП)",
+    "type": "наркотици",
+    "headline": "Резюме: В хода на проверка, срещано се с износ на нелегални наркотици. Конкретната локация в българско-турската граница не е уточнена в предоставеното източник.",
+    "sources": [
+      "haberler.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.haberler.com/3-sayfa/kocaeli-de-3-supheliden-78-69-gram-uyusturucu-madde-ele-gecirildi-19656503-haberi/"
+  },
+  {
+    "id": "3a2c1302a88b",
+    "timestamp": "2026-03-14T08:10:46.494473+00:00",
+    "date": "14.03.2026",
+    "time": "08:10",
+    "status": "Критично",
+    "location": "Близо до границата с България (Кırklareli), но конкретен пунктик не е указан",
+    "type": "наркотици",
+    "headline": "Резюме: В Кırklareli, Турция, операцията против наркотикотрафик преследва 4 лица, които са обвинени в трафик на уреди, включително 600 грама синтетични уреди и 7 грама канабис. Операцията също преследва 3 грама злато и 4250 турски лира.",
+    "sources": [
+      "sondakika.com",
+      "haberler.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 2,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.haberler.com/guncel/kirklareli-nde-uyusturucu-ticareti-yapan-4-supheli-tutuklandi-19656586-haberi/"
+  },
+  {
+    "id": "41f40d212ccf",
+    "timestamp": "2026-03-14T08:19:30.174458+00:00",
+    "date": "14.03.2026",
+    "time": "08:19",
+    "status": "Информация",
+    "location": "Текирдаг (предположително в близост до българо-турската граница)",
+    "type": "наркотици",
+    "headline": "Резюме: В шаркоей село турски военполицията захваща фалшифицирани спиртови напитки, нелегални оръжия и утехни вещества. Един човек е арестуван, а нелегален мигрант е изпратен назад към граничната служба.",
+    "sources": [
+      "ensonhaber.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.ensonhaber.com/3-sayfa/tekirdagda-ciftlik-evine-operasyon-sahte-alkol-ve-uyusturucu-ele-gecirildi"
+  },
+  {
+    "id": "67969f79393e",
+    "timestamp": "2026-03-14T11:16:18.081287+00:00",
+    "date": "14.03.2026",
+    "time": "11:16",
+    "status": "Критично",
+    "location": "Българо-турска граница",
+    "type": "наркотици",
+    "headline": "Операция с марихуана в Байбърт",
+    "sources": [
+      "sondakika.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.sondakika.com/3-sayfa/haber-bayburt-ta-esrar-operasyonu-19657253/"
+  },
+  {
+    "id": "b16f93d6d041",
+    "timestamp": "2026-03-14T11:16:22.141765+00:00",
+    "date": "14.03.2026",
+    "time": "11:16",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Цената на петрола отново се повиши",
+    "sources": [
+      "24chasa.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.24chasa.bg/biznes/article/22468385"
+  },
+  {
+    "id": "b16f93d6d041",
+    "timestamp": "2026-03-14T11:16:26.904722+00:00",
+    "date": "14.03.2026",
+    "time": "11:16",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Най-големият фестивал на шоколада в Румъния се проведе в Букурещ",
+    "sources": [
+      "bta.bg"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 0,
+      "en": 1
+    },
+    "confirmed": false,
+    "link": "https://www.bta.bg/en/news/balkans/1083663-romania-s-largest-chocolate-festival-held-in-bucharest"
+  },
+  {
+    "id": "a1c925c2ac14",
+    "timestamp": "2026-03-14T13:16:03.967144+00:00",
+    "date": "14.03.2026",
+    "time": "13:16",
+    "status": "Информация",
+    "location": "ГКПП Капитан Андреево",
+    "type": "друго",
+    "headline": "Турция планира нов митнически контролно-пропускателен пункт с България до Капикуле",
+    "sources": [
+      "bta.bg"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 0,
+      "en": 1
+    },
+    "confirmed": false,
+    "link": "https://www.bta.bg/en/news/balkans/1083728-turkiye-plans-new-customs-checkpoint-with-bulgaria-next-to-kapikule"
+  },
+  {
+    "id": "c2e8360836c5",
+    "timestamp": "2026-03-15T07:46:51.350420+00:00",
+    "date": "15.03.2026",
+    "time": "07:46",
+    "status": "Важно",
+    "location": "ГКПП Капитан Андреево",
+    "type": "друго",
+    "headline": "Трафикът е интензивен на граничните пунктове „Капитан Андреево“ и „Лесово“ на изход за товарни автомобили",
+    "sources": [
+      "24chasa.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.24chasa.bg/bulgaria/article/22470956"
+  },
+  {
+    "id": "414eef2ef875",
+    "timestamp": "2026-03-15T09:45:46.177677+00:00",
+    "date": "15.03.2026",
+    "time": "09:45",
+    "status": "Информация",
+    "location": "ГКПП Капъкуле (TR)",
+    "type": "контрабанда",
+    "headline": "Шофьорите на камиони са обнадеждени за новия митнически пункт, който ще бъде отворен в северната част на Капъкуле",
+    "sources": [
+      "haberler.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.haberler.com/ekonomi/yeni-gumruk-kapisi-tir-soforlerini-sevindiriyor-19659709-haberi/"
+  },
+  {
+    "id": "e9261459a2fc",
+    "timestamp": "2026-03-15T10:20:29.556237+00:00",
+    "date": "15.03.2026",
+    "time": "10:20",
+    "status": "Важно",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Турция отваря нов митнически пункт на границата с България",
+    "sources": [
+      "marica.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.marica.bg/svqt/turciq-otvarq-nov-mitnicheski-punkt-na-granicata-s-balgariq"
+  },
+  {
+    "id": "e9261459a2fc",
+    "timestamp": "2026-03-15T18:02:10.591747+00:00",
+    "date": "15.03.2026",
+    "time": "18:02",
+    "status": "Важно",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Министър Чифтчи: Волята ни е непоклатима в борбата срещу всякакви престъпления и престъпници",
+    "sources": [
+      "trthaber.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-her-turlu-suc-ve-sucluyla-mucadelede-irademiz-sarsilmazdir-937884.html"
+  },
+  {
+    "id": "8d4e67f35a17",
+    "timestamp": "2026-03-16T03:03:51.104506+00:00",
+    "date": "16.03.2026",
+    "time": "03:03",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "72 престъпници са докарани в Турция",
+    "sources": [
+      "haberturk.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.haberturk.com/son-dakika-bakanlik-acikladi-aramasi-bulunan-72-suclu-turkiye-ye-getirildi-3869917"
+  },
+  {
+    "id": "6855b25d1133",
+    "timestamp": "2026-03-16T05:25:59.087500+00:00",
+    "date": "16.03.2026",
+    "time": "05:25",
+    "status": "Информация",
+    "location": "ГКПП Капитан Андреево",
+    "type": "друго",
+    "headline": "Интензивно е движението на граничните пунктове „Капитан Андреево“ и „Лесово“",
+    "sources": [
+      "24chasa.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.24chasa.bg/spravochnik/article/22475535"
+  },
+  {
+    "id": "6855b25d1133",
+    "timestamp": "2026-03-16T05:33:15.787260+00:00",
+    "date": "16.03.2026",
+    "time": "05:33",
+    "status": "Информация",
+    "location": "ГКПП Капитан Андреево",
+    "type": "друго",
+    "headline": "Интензивно е движението на граничните пунктове Капитан Андреево и Лесово",
+    "sources": [
+      "24chasa.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.24chasa.bg/spravochnik/article/22475535"
+  },
+  {
+    "id": "8d4e67f35a17",
+    "timestamp": "2026-03-16T07:20:35.637421+00:00",
+    "date": "16.03.2026",
+    "time": "07:20",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "72 души, издирвани от Турция, екстрадирани от няколко страни, включително България",
+    "sources": [
+      "bta.bg"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 0,
+      "en": 1
+    },
+    "confirmed": false,
+    "link": "https://www.bta.bg/en/news/balkans/1084201-72-people-wanted-by-turkiye-extradited-from-several-countries-including-bulgari"
+  },
+  {
+    "id": "8d4e67f35a17",
+    "timestamp": "2026-03-16T07:27:58.971242+00:00",
+    "date": "16.03.2026",
+    "time": "07:27",
+    "status": "Критично",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Над 70 души, издирвани от Турция, са предадени от различни държави",
+    "sources": [
+      "24chasa.bg",
+      "fakti.bg"
+    ],
+    "langs": {
+      "bg": 2,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.24chasa.bg/mezhdunarodni/article/22476114"
+  },
+  {
+    "id": "8d4e67f35a17",
+    "timestamp": "2026-03-16T07:57:14.400721+00:00",
+    "date": "16.03.2026",
+    "time": "07:57",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Граничният порт Refah се отваря и в двете посоки",
+    "sources": [
+      "haberler.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.haberler.com/dunya/refah-sinir-kapisi-carsamba-gunu-yeniden-aciliyor-19661828-haberi/"
+  },
+  {
+    "id": "8d4e67f35a17",
+    "timestamp": "2026-03-16T08:05:01.569488+00:00",
+    "date": "16.03.2026",
+    "time": "08:05",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Граничният порт Refah се отваря отново",
+    "sources": [
+      "sondakika.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.sondakika.com/dunya/haber-refah-sinir-kapisi-yeniden-aciliyor-19661867/"
+  },
+  {
+    "id": "8d4e67f35a17",
+    "timestamp": "2026-03-16T10:38:58.815714+00:00",
+    "date": "16.03.2026",
+    "time": "10:38",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Районното управление на полицията в Кърджали е с нов шеф",
+    "sources": [
+      "24chasa.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.24chasa.bg/bulgaria/article/22477657"
+  },
+  {
+    "id": "8cc6d2e16353",
+    "timestamp": "2026-03-17T05:28:49.332338+00:00",
+    "date": "17.03.2026",
+    "time": "05:28",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Гърците идват у нас за гориво, българите - в Гърция за храна",
+    "sources": [
+      "marica.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.marica.bg/biznes-zona/garcite-idvat-u-nas-za-gorivo-balgarite-v-garciq-za-hrana"
+  },
+  {
+    "id": "db275957d988",
+    "timestamp": "2026-03-17T06:26:10.353811+00:00",
+    "date": "17.03.2026",
+    "time": "06:26",
+    "status": "Важно",
+    "location": "ГКПП Капитан Андреево",
+    "type": "друго",
+    "headline": "Интензивен трафик на изхода на „Капитан Андреево\"",
+    "sources": [
+      "24chasa.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.24chasa.bg/spravochnik/article/22484036"
+  },
+  {
+    "id": "f4928c9a0fb1",
+    "timestamp": "2026-03-17T06:48:16.030146+00:00",
+    "date": "17.03.2026",
+    "time": "06:48",
+    "status": "Критично",
+    "location": "Eдирне (TR)",
+    "type": "миграция",
+    "headline": "Станахме минаващ хан! 11 нелегални имигранти са заловени в Одрин и Къркларели",
+    "sources": [
+      "milligazete.com.tr"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.milligazete.com.tr/yol-gecen-hani-olduk-edirne-ve-kirklarelinde-11-duzensiz-gocmen-yakalandi-2"
+  },
+  {
+    "id": "8cc6d2e16353",
+    "timestamp": "2026-03-17T10:17:32.780789+00:00",
+    "date": "17.03.2026",
+    "time": "10:17",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "БАБХ започва масови проверки по южната граница заради шап в Кипър и шарка в Гърция",
+    "sources": [
+      "24chasa.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.24chasa.bg/bulgaria/article/22485858"
+  },
+  {
+    "id": "8cc6d2e16353",
+    "timestamp": "2026-03-17T15:42:11.123378+00:00",
+    "date": "17.03.2026",
+    "time": "15:42",
+    "status": "Критично",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "ГДБОП атакува бусове с ментета на границата СНИМКИ",
+    "sources": [
+      "marica.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.marica.bg/region/haskovo/gdbop-atakuva-busove-s-menteta-na-granicata-snimki"
+  },
+  {
+    "id": "b87800652459",
+    "timestamp": "2026-03-19T08:00:01.983319+00:00",
+    "date": "19.03.2026",
+    "time": "08:00",
+    "status": "Важно",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Вътрешният министър и турският посланик обсъждат противодействието на престъпността и облекчаването на граничния трафик",
+    "sources": [
+      "bta.bg"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 0,
+      "en": 1
+    },
+    "confirmed": false,
+    "link": "https://www.bta.bg/en/news/bulgaria/1086201-interior-minister-and-turkish-ambassador-discuss-crime-countering-easing-border"
+  },
+  {
+    "id": "5ae9de83db05",
+    "timestamp": "2026-03-19T08:00:43.919950+00:00",
+    "date": "19.03.2026",
+    "time": "08:00",
+    "status": "Информация",
+    "location": "ГКПП Капъкуле (TR)",
+    "type": "друго",
+    "headline": "Шофьорът на камиона, на когото му прилошало в Капъкуле, е починал",
+    "sources": [
+      "haberler.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.haberler.com/3-sayfa/edirne-de-tir-soforu-seyir-halindeyken-hayatini-kaybetti-19669699-haberi/"
+  },
+  {
+    "id": "b87800652459",
+    "timestamp": "2026-03-19T08:17:21.473700+00:00",
+    "date": "19.03.2026",
+    "time": "08:17",
+    "status": "Критично",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Калин Стоянов подава сигнал срещу бивш вътрешен министър за натиск и злоупотреба с влияние",
+    "sources": [
+      "fakti.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://fakti.bg/bulgaria/1042577-kalin-stoanov-podava-signal-sreshtu-bivsh-vatreshen-ministar-za-natisk-i-zloupotreba-s-vlianie"
+  },
+  {
+    "id": "b87800652459",
+    "timestamp": "2026-03-19T09:19:01.288608+00:00",
+    "date": "19.03.2026",
+    "time": "09:19",
+    "status": "Критично",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "ИПБ алармира за рекет по пътищата и границите",
+    "sources": [
+      "fakti.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://fakti.bg/bulgaria/1042589-ipb-alarmira-za-reket-po-patishtata-i-granicite"
+  },
+  {
+    "id": "c7ca5acb0700",
+    "timestamp": "2026-03-19T10:56:57.832498+00:00",
+    "date": "19.03.2026",
+    "time": "10:56",
+    "status": "Критично",
+    "location": "Българо-турска граница",
+    "type": "наркотици",
+    "headline": "Не  пуснаха от ареста турски шофьор, заловен със 739 кг марихуана",
+    "sources": [
+      "marica.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.marica.bg/region/haskovo/ne-pusnaha-ot-aresta-turski-shofyor-zaloven-sas-739-kg-marihuana"
+  },
+  {
+    "id": "aed8ab5da209",
+    "timestamp": "2026-03-19T12:36:29.388981+00:00",
+    "date": "19.03.2026",
+    "time": "12:36",
+    "status": "Критично",
+    "location": "ГКПП Капитан Андреево",
+    "type": "наркотици",
+    "headline": "Обвиняем в контрабанда на над 739 кг марихуана е настанен в затворническата болница в София",
+    "sources": [
+      "24chasa.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.24chasa.bg/bulgaria/article/22502391"
+  },
+  {
+    "id": "b87800652459",
+    "timestamp": "2026-03-19T12:43:44.588119+00:00",
+    "date": "19.03.2026",
+    "time": "12:43",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "„Байрам“ на граничните порти, отварящи се към Европа. мерки; 580 служители на място",
+    "sources": [
+      "haberler.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.haberler.com/guncel/avrupa-ya-acilan-sinir-kapilarinda-bayram-19672133-haberi/"
+  },
+  {
+    "id": "c5c37459c157",
+    "timestamp": "2026-03-19T13:54:16.569144+00:00",
+    "date": "19.03.2026",
+    "time": "13:54",
+    "status": "Критично",
+    "location": "ГКПП Капитан Андреево",
+    "type": "друго",
+    "headline": "14 кг синтетичен опиат откриха в тайник на камион на \"Капитан Андреево\" (Видео)",
+    "sources": [
+      "24chasa.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.24chasa.bg/bulgaria/article/22503311"
+  },
+  {
+    "id": "7517a78d4ff5",
+    "timestamp": "2026-03-19T14:15:56.228331+00:00",
+    "date": "19.03.2026",
+    "time": "14:15",
+    "status": "Информация",
+    "location": "Eдирне (TR)",
+    "type": "друго",
+    "headline": "Губернаторът на Одрин Сезер празнува с Мехметчик в граничния полицейски участък",
+    "sources": [
+      "haberler.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.haberler.com/guncel/edirne-valisi-sezer-sinir-karakolundaki-19672360-haberi/"
+  },
+  {
+    "id": "7517a78d4ff5",
+    "timestamp": "2026-03-19T14:23:12.608521+00:00",
+    "date": "19.03.2026",
+    "time": "14:23",
+    "status": "Информация",
+    "location": "Eдирне (TR)",
+    "type": "друго",
+    "headline": "Губернаторът на Одрин Сезер празнува с Мехметчик в граничния полицейски участък",
+    "sources": [
+      "sondakika.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.sondakika.com/guncel/haber-edirne-valisi-sezer-sinir-karakolundaki-mehmetcikl-19672382/"
+  },
+  {
+    "id": "aed8ab5da209",
+    "timestamp": "2026-03-19T15:20:53.254345+00:00",
+    "date": "19.03.2026",
+    "time": "15:20",
+    "status": "Критично",
+    "location": "ГКПП Капитан Андреево",
+    "type": "наркотици",
+    "headline": "Задържаха 38- годишен турчин с наркотик за 86 633 евро на Капитан Андреево",
+    "sources": [
+      "marica.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.marica.bg/region/haskovo/zadarjaha-38-godishen-turchin-s-narkotik-za-86-633-evro-na-kapitan-andreevo"
+  },
+  {
+    "id": "b587d29244a0",
+    "timestamp": "2026-03-19T15:49:45.419936+00:00",
+    "date": "19.03.2026",
+    "time": "15:49",
+    "status": "Важно",
+    "location": "ГКПП Капитан Андреево",
+    "type": "контрабанда",
+    "headline": "Турчин обвинен в опит за контрабанда на канабиноид за 87 000 евро от България",
+    "sources": [
+      "bta.bg"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 0,
+      "en": 1
+    },
+    "confirmed": false,
+    "link": "https://www.bta.bg/en/news/bulgaria/1087677-turkish-man-charged-with-attempted-smuggling-of-eur-87-000-worth-of-cannabinoid-"
+  },
+  {
+    "id": "1ef361ac412b",
+    "timestamp": "2026-03-20T08:47:06.142963+00:00",
+    "date": "20.03.2026",
+    "time": "08:47",
+    "status": "Информация",
+    "location": "ГКПП Капъкуле (TR)",
+    "type": "друго",
+    "headline": "Горчив празник за шофьорите на камиони в Капъкуле",
+    "sources": [
+      "ntv.com.tr"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.ntv.com.tr/turkiye/kapikulede-tir-soforlerinin-buruk-bayrami-1716729"
+  },
+  {
+    "id": "1ef361ac412b",
+    "timestamp": "2026-03-20T09:56:04.162489+00:00",
+    "date": "20.03.2026",
+    "time": "09:56",
+    "status": "Информация",
+    "location": "ГКПП Капъкуле (TR)",
+    "type": "друго",
+    "headline": "Шофьорите на камиони празнуват празника си по пътищата",
+    "sources": [
+      "trthaber.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.trthaber.com/haber/gundem/tir-soforlerinin-bayrami-yollarda-geciyor-938466.html"
+  },
+  {
+    "id": "f916e4ca18e0",
+    "timestamp": "2026-03-20T10:31:03.300984+00:00",
+    "date": "20.03.2026",
+    "time": "10:31",
+    "status": "Критично",
+    "location": "Българо-турска граница",
+    "type": "задържане",
+    "headline": "Оставиха за постоянно в ареста тираджия с дрога за 86 633 евро",
+    "sources": [
+      "marica.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.marica.bg/region/haskovo/ostaviha-za-postoqnno-v-aresta-tiradjiq-s-droga-za-86-633-evro"
+  },
+  {
+    "id": "19c450938a49",
+    "timestamp": "2026-03-20T12:51:55.177878+00:00",
+    "date": "20.03.2026",
+    "time": "12:51",
+    "status": "Критично",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Над 34 500 души са изразили желание да гласуват в чужбина на избори през април",
+    "sources": [
+      "novinite.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.novinite.bg/articles/282085/nad-34-500-dushi-sa-izrazili-zhelanie-da-glasuvat-v-chuzhbina-na-izbori-prez-april"
+  },
+  {
+    "id": "e7d34bb330b8",
+    "timestamp": "2026-03-20T14:16:25.689861+00:00",
+    "date": "20.03.2026",
+    "time": "14:16",
+    "status": "Критично",
+    "location": "ГКПП Капитан Андреево",
+    "type": "контрабанда",
+    "headline": "Оставиха в ареста обвиненият в контрабанда на 14 кг синтетична дрога през „Капитан Андреево“",
+    "sources": [
+      "24chasa.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.24chasa.bg/bulgaria/article/22511582"
+  },
+  {
+    "id": "19c450938a49",
+    "timestamp": "2026-03-20T14:23:27.786958+00:00",
+    "date": "20.03.2026",
+    "time": "14:23",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Досегашният директор на ОДМВР в Сливен ст. комисар Димитър Величков напуска системата на МВР с почетно отличие \"За доблест и заслуги\"",
+    "sources": [
+      "24chasa.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.24chasa.bg/bulgaria/article/22511583"
+  },
+  {
+    "id": "296e72cb6361",
+    "timestamp": "2026-03-21T09:40:47.186867+00:00",
+    "date": "21.03.2026",
+    "time": "09:40",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Губернаторът на Къркларели Туран празнува с Мехметчик на граничната станция",
+    "sources": [
+      "haberler.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 3,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.haberler.com/yerel/kirklareli-valisi-ugur-turan-sinirda-mehmetciklerle-bayramlasti-19675391-haberi/"
+  },
+  {
+    "id": "03480e53bf68",
+    "timestamp": "2026-03-21T10:10:06.604554+00:00",
+    "date": "21.03.2026",
+    "time": "10:10",
+    "status": "Информация",
+    "location": "ГКПП Капитан Андреево",
+    "type": "друго",
+    "headline": "Изгоря тир с текстил на ГКПП Капитан Андреево",
+    "sources": [
+      "marica.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.marica.bg/region/haskovo/izgorq-tir-s-tekstil-na-gkpp-kapitan-andreevo"
+  },
+  {
+    "id": "03480e53bf68",
+    "timestamp": "2026-03-21T10:24:02.527163+00:00",
+    "date": "21.03.2026",
+    "time": "10:24",
+    "status": "Информация",
+    "location": "ГКПП Капитан Андреево",
+    "type": "друго",
+    "headline": "Камион изгоря на граничния пункт \"Капитан Андреево\"",
+    "sources": [
+      "24chasa.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.24chasa.bg/bulgaria/article/22515093"
+  },
+  {
+    "id": "03480e53bf68",
+    "timestamp": "2026-03-21T10:31:04.651928+00:00",
+    "date": "21.03.2026",
+    "time": "10:31",
+    "status": "Информация",
+    "location": "ГКПП Капитан Андреево",
+    "type": "друго",
+    "headline": "Тир с текстил изгоря на „Капитан Андреево“",
+    "sources": [
+      "nova.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://nova.bg/news/view/2026/03/21/531104/%D1%82%D0%B8%D1%80-%D1%81-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B8%D0%BB-%D0%B8%D0%B7%D0%B3%D0%BE%D1%80%D1%8F-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BE/"
+  },
+  {
+    "id": "579d3f048df7",
+    "timestamp": "2026-03-21T13:54:13.302923+00:00",
+    "date": "21.03.2026",
+    "time": "13:54",
+    "status": "Информация",
+    "location": "ГКПП Капъкуле (TR)",
+    "type": "друго",
+    "headline": "Страшен взрив на границата: Камион се превърна в пепел",
+    "sources": [
+      "haberler.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.haberler.com/3-sayfa/kapikule-sinir-kapisi-nda-tirda-patlama-yangin-korku-yaratti-19676997-haberi/"
+  },
+  {
+    "id": "579d3f048df7",
+    "timestamp": "2026-03-21T14:01:22.672199+00:00",
+    "date": "21.03.2026",
+    "time": "14:01",
+    "status": "Информация",
+    "location": "ГКПП Капъкуле (TR)",
+    "type": "друго",
+    "headline": "Превозното средство, което не успя да вземе завоя, влезе в бариерите",
+    "sources": [
+      "haberler.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.haberler.com/3-sayfa/edirne-de-direksiyon-hakimiyetini-kaybeden-arac-bariyerlere-carpti-19677021-haberi/"
+  },
+  {
+    "id": "e78b1902adf0",
+    "timestamp": "2026-03-21T14:01:30.136683+00:00",
+    "date": "21.03.2026",
+    "time": "14:01",
+    "status": "Информация",
+    "location": "Eдирне (TR)",
+    "type": "друго",
+    "headline": "Експлозия на граничния пункт Одрин",
+    "sources": [
+      "sondakika.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.sondakika.com/3-sayfa/haber-edirne-sinir-kapisinda-patlama-19677035/"
+  },
+  {
+    "id": "296e72cb6361",
+    "timestamp": "2026-03-21T14:01:36.101604+00:00",
+    "date": "21.03.2026",
+    "time": "14:01",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Министър Дечев: Миграционния натиск към държавната граница на България е нисък",
+    "sources": [
+      "24chasa.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.24chasa.bg/bulgaria/article/22516201"
+  },
+  {
+    "id": "579d3f048df7",
+    "timestamp": "2026-03-21T14:21:48.402733+00:00",
+    "date": "21.03.2026",
+    "time": "14:21",
+    "status": "Информация",
+    "location": "ГКПП Капъкуле (TR)",
+    "type": "друго",
+    "headline": "Експлозия на граничния пункт в Одрин е заснета от камера",
+    "sources": [
+      "ensonhaber.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.ensonhaber.com/dunya/edirnede-sinir-kapisinda-patlama-kamerada"
+  },
+  {
+    "id": "03480e53bf68",
+    "timestamp": "2026-03-21T14:35:14.742448+00:00",
+    "date": "21.03.2026",
+    "time": "14:35",
+    "status": "Информация",
+    "location": "ГКПП Капитан Андреево",
+    "type": "друго",
+    "headline": "ТИР изгоря на Капитан Андреево“, при пожара е повредена и скъпа апаратура",
+    "sources": [
+      "fakti.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://fakti.bg/bulgaria/1043144-tir-izgora-na-kapitan-andreevo-pri-pojara-e-povredena-i-skapa-aparatura"
+  },
+  {
+    "id": "296e72cb6361",
+    "timestamp": "2026-03-21T14:35:20.676665+00:00",
+    "date": "21.03.2026",
+    "time": "14:35",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Миграционната обстановка по държавната граница в момента е спокойна, каза вътрешният министър Дечев",
+    "sources": [
+      "bta.bg"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 0,
+      "en": 1
+    },
+    "confirmed": false,
+    "link": "https://www.bta.bg/en/news/bulgaria/1089050-migration-situation-along-state-border-is-currently-calm-interior-minister-dech"
+  },
+  {
+    "id": "296e72cb6361",
+    "timestamp": "2026-03-21T15:09:11.502931+00:00",
+    "date": "21.03.2026",
+    "time": "15:09",
+    "status": "Важно",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Министър Дечев: Миграционната обстановка по границата ни е спокойна",
+    "sources": [
+      "fakti.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://fakti.bg/bulgaria/1043146-ministar-dechev-migracionnata-obstanovka-po-granicata-ni-e-spokoina"
+  },
+  {
+    "id": "03480e53bf68",
+    "timestamp": "2026-03-21T15:50:00.256104+00:00",
+    "date": "21.03.2026",
+    "time": "15:50",
+    "status": "Информация",
+    "location": "ГКПП Капитан Андреево",
+    "type": "друго",
+    "headline": "Прокуратурата разследва пожар по непредпазливост на ГКПП \"Капитан Андреево\"",
+    "sources": [
+      "24chasa.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.24chasa.bg/bulgaria/article/22516717"
+  },
+  {
+    "id": "03480e53bf68",
+    "timestamp": "2026-03-21T17:58:05.134229+00:00",
+    "date": "21.03.2026",
+    "time": "17:58",
+    "status": "Информация",
+    "location": "ГКПП Капитан Андреево",
+    "type": "друго",
+    "headline": "Тир с текстил изгоря на „Капитан Андреево“, разследва се проява на небрежност",
+    "sources": [
+      "nova.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://nova.bg/news/view/2026/03/21/531104/%D1%82%D0%B8%D1%80-%D1%81-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B8%D0%BB-%D0%B8%D0%B7%D0%B3%D0%BE%D1%80%D1%8F-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BE-%D1%80%D0%B0%D0%B7%D1%81%D0%BB%D0%B5%D0%B4%D0%B2%D0%B0-%D1%81%D0%B5-%D0%BF%D1%80%D0%BE%D1%8F%D0%B2%D0%B0-%D0%BD%D0%B0-%D0%BD%D0%B5%D0%B1%D1%80%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82/"
+  },
+  {
+    "id": "296e72cb6361",
+    "timestamp": "2026-03-21T18:05:06.410793+00:00",
+    "date": "21.03.2026",
+    "time": "18:05",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Чистката в МВР продължава: Шефът на \"Вътрешна сигурност\" ст. комисар Даниел Луков е уволнен",
+    "sources": [
+      "marica.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.marica.bg/balgariq/vlast/chistkata-v-mvr-prodaljava-shefat-na-vatreshna-sigurnost-st-komisar-daniel-lukov-e-uvolnen"
+  },
+  {
+    "id": "7d3c12694bbd",
+    "timestamp": "2026-03-22T10:32:56.340420+00:00",
+    "date": "22.03.2026",
+    "time": "10:32",
+    "status": "Критично",
+    "location": "Eдирне (TR)",
+    "type": "миграция",
+    "headline": "Заловени са 33 нелегални имигранти",
+    "sources": [
+      "sondakika.com",
+      "haberler.com",
+      "haberturk.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 3,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.haberturk.com/mugla-da-33-duzensiz-gocmen-yakalandi-3871297"
+  },
+  {
+    "id": "7d3c12694bbd",
+    "timestamp": "2026-03-22T10:33:36.772356+00:00",
+    "date": "22.03.2026",
+    "time": "10:33",
+    "status": "Критично",
+    "location": "Eдирне (TR)",
+    "type": "миграция",
+    "headline": "Ние сме като минаващ хан! 11 нелегални имигранти са заловени в Одрин и Къркларели",
+    "sources": [
+      "milligazete.com.tr"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.milligazete.com.tr/yol-gecen-hani-gibiyiz-edirne-ve-kirklarelinde-11-duzensiz-gocmen-yakalandi-1"
+  },
+  {
+    "id": "839f81d64349",
+    "timestamp": "2026-03-23T04:31:20.194180+00:00",
+    "date": "23.03.2026",
+    "time": "04:31",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "На граничния пункт имаше блъсканица, тъй като хиляди турци се стичаха да пътуват без виза.",
+    "sources": [
+      "sozcu.com.tr"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.sozcu.com.tr/binlerce-turk-vizesiz-seyahat-icin-akin-edince-sinir-kapisinda-izdiham-yasandi-p303773"
+  },
+  {
+    "id": "839f81d64349",
+    "timestamp": "2026-03-23T05:24:36.115639+00:00",
+    "date": "23.03.2026",
+    "time": "05:24",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Над 42 000 души са подали заявления за гласуване в чужбина на парламентарния вот",
+    "sources": [
+      "fakti.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://fakti.bg/bulgaria/1043460-slug-for-change"
+  },
+  {
+    "id": "839f81d64349",
+    "timestamp": "2026-03-23T05:38:28.923616+00:00",
+    "date": "23.03.2026",
+    "time": "05:38",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Ветеринарните власти с мерки срещу разпространението на шарка и шап по животните",
+    "sources": [
+      "fakti.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://fakti.bg/bulgaria/1043461-slug-for-change"
+  },
+  {
+    "id": "3b9e0911ab09",
+    "timestamp": "2026-03-23T10:59:26.421762+00:00",
+    "date": "23.03.2026",
+    "time": "10:59",
+    "status": "Критично",
+    "location": "ГКПП Капитан Андреево",
+    "type": "друго",
+    "headline": "БАБХ иззе над 200 кг храни без документи на ГКПП „Капитан Андреево“",
+    "sources": [
+      "nova.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://nova.bg/news/view/2026/03/23/531255/%D0%B1%D0%B0%D0%B1%D1%85-%D0%B8%D0%B7%D0%B7%D0%B5-%D0%BD%D0%B0%D0%B4-200-%D0%BA%D0%B3-%D1%85%D1%80%D0%B0%D0%BD%D0%B8-%D0%B1%D0%B5%D0%B7-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8-%D0%BD%D0%B0-%D0%B3%D0%BA%D0%BF%D0%BF-%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BE/"
+  },
+  {
+    "id": "3b9e0911ab09",
+    "timestamp": "2026-03-23T11:13:37.938523+00:00",
+    "date": "23.03.2026",
+    "time": "11:13",
+    "status": "Критично",
+    "location": "ГКПП Капитан Андреево",
+    "type": "друго",
+    "headline": "БАБХ иззе над 200 кг храни без документи на „Капитан Андреево“",
+    "sources": [
+      "nova.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://nova.bg/news/view/2026/03/23/531255/%D0%B1%D0%B0%D0%B1%D1%85-%D0%B8%D0%B7%D0%B7%D0%B5-%D0%BD%D0%B0%D0%B4-200-%D0%BA%D0%B3-%D1%85%D1%80%D0%B0%D0%BD%D0%B8-%D0%B1%D0%B5%D0%B7-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BE/"
+  },
+  {
+    "id": "995add300288",
+    "timestamp": "2026-03-23T12:31:32.857957+00:00",
+    "date": "23.03.2026",
+    "time": "12:31",
+    "status": "Информация",
+    "location": "ГКПП Капъкуле (TR)",
+    "type": "друго",
+    "headline": "Няма планове за нов граничен пункт между България и Турция, фокусът остава върху разширяването на съществуващия капацитет, казва ръководителят на граничната полиция",
+    "sources": [
+      "bta.bg"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 0,
+      "en": 1
+    },
+    "confirmed": false,
+    "link": "https://www.bta.bg/en/news/bulgaria/1089916-no-plans-for-new-bulgaria-turkiye-border-crossing-focus-remains-on-expanding-ex"
+  },
+  {
+    "id": "3b9e0911ab09",
+    "timestamp": "2026-03-23T14:21:49.627744+00:00",
+    "date": "23.03.2026",
+    "time": "14:21",
+    "status": "Информация",
+    "location": "ГКПП Капитан Андреево",
+    "type": "друго",
+    "headline": "220 000 евро сред шоколади намериха митничари на Капитан Андреево",
+    "sources": [
+      "marica.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.marica.bg/region/haskovo/220-000-evro-sred-shokoladi-nameriha-mitnichari-na-kapitan-andreevo"
+  },
+  {
+    "id": "3b9e0911ab09",
+    "timestamp": "2026-03-23T16:21:15.351667+00:00",
+    "date": "23.03.2026",
+    "time": "16:21",
+    "status": "Информация",
+    "location": "ГКПП Капитан Андреево",
+    "type": "друго",
+    "headline": "Недекларирани 220 000 евро, скрити в чанта с шоколади, задържаха на \"Капитан Андреево\" (Видео, снимки)",
+    "sources": [
+      "24chasa.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.24chasa.bg/bulgaria/article/22527672"
+  },
+  {
+    "id": "f5b97cc4fb18",
+    "timestamp": "2026-03-24T05:21:30.291336+00:00",
+    "date": "24.03.2026",
+    "time": "05:21",
+    "status": "Критично",
+    "location": "ГКПП Капъкуле (TR)",
+    "type": "друго",
+    "headline": "В камиона в торба, пълна с шоколадови бонбони, са открити бали с евро",
+    "sources": [
+      "ntv.com.tr"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.ntv.com.tr/turkiye/tirdaki-cikolata-dolu-cantadan-balya-balya-euro-cikti-1717206"
+  },
+  {
+    "id": "16a4f7d20f00",
+    "timestamp": "2026-03-24T05:43:06.818923+00:00",
+    "date": "24.03.2026",
+    "time": "05:43",
+    "status": "Важно",
+    "location": "ГКПП Капитан Андреево",
+    "type": "друго",
+    "headline": "Интензивен е трафикът на изхода за камиони на \"Капитан Андреево\" и \"Лесово\"",
+    "sources": [
+      "24chasa.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.24chasa.bg/spravochnik/article/22529622"
+  },
+  {
+    "id": "f5b97cc4fb18",
+    "timestamp": "2026-03-24T06:13:34.720737+00:00",
+    "date": "24.03.2026",
+    "time": "06:13",
+    "status": "Критично",
+    "location": "ГКПП Капъкуле (TR)",
+    "type": "друго",
+    "headline": "220 хил. евро бяха открити в торба, пълна с шоколадови бонбони",
+    "sources": [
+      "ensonhaber.com",
+      "haberler.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 2,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.haberler.com/3-sayfa/edirne-kapikule-de-tir-surucusunde-220-bin-euro-ele-gecirildi-19683117-haberi/"
+  },
+  {
+    "id": "2962fc1e8af0",
+    "timestamp": "2026-03-24T06:28:48.897156+00:00",
+    "date": "24.03.2026",
+    "time": "06:28",
+    "status": "Критично",
+    "location": "Българо-турска граница",
+    "type": "задържане",
+    "headline": "&quot;Има шоколад&quot; Той каза, че от това излезе цяло състояние! Заловен на влизане в Турция",
+    "sources": [
+      "haberler.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.haberler.com/3-sayfa/edirne-kapikule-de-tir-surucusunde-220-bin-euro-ele-gecirildi-19683117-haberi/"
+  },
+  {
+    "id": "2d474c2d2454",
+    "timestamp": "2026-03-24T06:36:39.500902+00:00",
+    "date": "24.03.2026",
+    "time": "06:36",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Цяло богатство излезе от шоколадовата кутия! Всичките му спестявания са изчезнали",
+    "sources": [
+      "haberler.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.haberler.com/3-sayfa/edirne-kapikule-de-tir-surucusunde-220-bin-euro-ele-gecirildi-19683117-haberi/"
+  },
+  {
+    "id": "2962fc1e8af0",
+    "timestamp": "2026-03-24T06:36:46.705075+00:00",
+    "date": "24.03.2026",
+    "time": "06:36",
+    "status": "Критично",
+    "location": "Българо-турска граница",
+    "type": "задържане",
+    "headline": "&apos;&apos;Има шоколад&apos;&apos; Той каза, че от това излезе цяло състояние! Заловен на влизане в Турция",
+    "sources": [
+      "sondakika.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.sondakika.com/3-sayfa/haber-edirne-sinirinda-220-bin-euro-yakalandi-19683129/"
+  },
+  {
+    "id": "2d474c2d2454",
+    "timestamp": "2026-03-24T06:44:18.592054+00:00",
+    "date": "24.03.2026",
+    "time": "06:44",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Цяло богатство излезе от шоколадовата кутия! Дал всичките си спестявания на &quot;комшията&quot; остана",
+    "sources": [
+      "haberler.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.haberler.com/3-sayfa/edirne-kapikule-de-tir-surucusunde-220-bin-euro-ele-gecirildi-19683117-haberi/"
+  },
+  {
+    "id": "2d474c2d2454",
+    "timestamp": "2026-03-24T08:36:23.623643+00:00",
+    "date": "24.03.2026",
+    "time": "08:36",
+    "status": "Критично",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Спрян е по съмнение, вътре са намерени алпаки",
+    "sources": [
+      "ntv.com.tr"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.ntv.com.tr/galeri/turkiye/suphe-uzerine-durduruldu-icinde-alpakalar-cikti-1717250"
+  },
+  {
+    "id": "2d474c2d2454",
+    "timestamp": "2026-03-24T09:05:24.655570+00:00",
+    "date": "24.03.2026",
+    "time": "09:05",
+    "status": "Критично",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Спряха го по подозрение, излязоха алпаки",
+    "sources": [
+      "ntv.com.tr"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.ntv.com.tr/galeri/turkiye/suphe-uzerine-durduruldu-icinden-alpakalar-cikti-1717250"
+  },
+  {
+    "id": "f5b97cc4fb18",
+    "timestamp": "2026-03-24T11:54:16.066837+00:00",
+    "date": "24.03.2026",
+    "time": "11:54",
+    "status": "Критично",
+    "location": "ГКПП Капъкуле (TR)",
+    "type": "друго",
+    "headline": "53 килограма скункс иззети в Капъкуле",
+    "sources": [
+      "sondakika.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.sondakika.com/guncel/haber-kapikule-de-53-kilo-skunk-ele-gecirildi-19684567/"
+  },
+  {
+    "id": "2d474c2d2454",
+    "timestamp": "2026-03-24T15:03:18.425233+00:00",
+    "date": "24.03.2026",
+    "time": "15:03",
+    "status": "Критично",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Разкрита е печатница за фалшиви евро в Румъния близо до българската граница",
+    "sources": [
+      "bta.bg"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 0,
+      "en": 1
+    },
+    "confirmed": false,
+    "link": "https://www.bta.bg/en/news/bulgaria/1090819-counterfeit-euro-printing-facility-uncovered-in-romania-near-bulgarian-border"
+  },
+  {
+    "id": "015dda79f3a2",
+    "timestamp": "2026-03-24T18:19:33.238846+00:00",
+    "date": "24.03.2026",
+    "time": "18:19",
+    "status": "Критично",
+    "location": "ГКПП Капитан Андреево",
+    "type": "наркотици",
+    "headline": "Хасковският окръжен съд осъди сърбина за контрабанда на марихуана",
+    "sources": [
+      "bta.bg"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 0,
+      "en": 1
+    },
+    "confirmed": false,
+    "link": "https://www.bta.bg/en/news/balkans/1090926-haskovo-district-court-sentences-serbian-for-marijuana-smuggling"
+  },
+  {
+    "id": "0da373508593",
+    "timestamp": "2026-03-25T08:46:21.756427+00:00",
+    "date": "25.03.2026",
+    "time": "08:46",
+    "status": "Важно",
+    "location": "ГКПП Капитан Андреево",
+    "type": "друго",
+    "headline": "Интензивен е трафикът за камиони на \"Капитан Андреево\" и \"Лесово\"",
+    "sources": [
+      "24chasa.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.24chasa.bg/spravochnik/article/22535954"
+  },
+  {
+    "id": "2a2707b22991",
+    "timestamp": "2026-03-25T10:44:06.768119+00:00",
+    "date": "25.03.2026",
+    "time": "10:44",
+    "status": "Критично",
+    "location": "Българо-турска граница",
+    "type": "задържане",
+    "headline": "Петима души са задържани за фалшивите 1,2 млн. евробанкноти",
+    "sources": [
+      "nova.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://nova.bg/news/view/2026/03/25/531521/%D0%BF%D0%B5%D1%82%D0%B8%D0%BC%D0%B0-%D0%B4%D1%83%D1%88%D0%B8-%D1%81%D0%B0-%D0%B7%D0%B0%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8-%D0%B7%D0%B0-%D1%84%D0%B0%D0%BB%D1%88%D0%B8%D0%B2%D0%B8%D1%82%D0%B5-12-%D0%BC%D0%BB%D0%BD-%D0%B5%D0%B2%D1%80%D0%BE%D0%B1%D0%B0%D0%BD%D0%BA%D0%BD%D0%BE%D1%82%D0%B8/"
+  },
+  {
+    "id": "e8950f172439",
+    "timestamp": "2026-03-25T11:58:34.363938+00:00",
+    "date": "25.03.2026",
+    "time": "11:58",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Важно за пътуващите с автомобили към Турция: Нова онлайн проверка пази от глоби и проблеми на границата",
+    "sources": [
+      "marica.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.marica.bg/svqt/vajno-za-patuvashtite-s-avtomobili-kam-turciq-nova-onlayn-proverka-pazi-ot-globi-i-problemi-na-granicata"
+  },
+  {
+    "id": "66a97a26d994",
+    "timestamp": "2026-03-25T18:10:50.143159+00:00",
+    "date": "25.03.2026",
+    "time": "18:10",
+    "status": "Важно",
+    "location": "Българо-турска граница",
+    "type": "миграция",
+    "headline": "Има ли нова мигрантска вълна по българо-турската граница? Властите със спешни мерки",
+    "sources": [
+      "marica.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.marica.bg/balgariq/obshtestvo/ima-li-nova-migrantska-valna-po-balgaro-turskata-granica-vlastite-sas-speshni-merki"
+  },
+  {
+    "id": "66a97a26d994",
+    "timestamp": "2026-03-25T18:18:12.163110+00:00",
+    "date": "25.03.2026",
+    "time": "18:18",
+    "status": "Важно",
+    "location": "Българо-турска граница",
+    "type": "миграция",
+    "headline": "Има ли нова мигрантска вълна по българо-турската граница? Властитепредприемат важни действия",
+    "sources": [
+      "marica.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.marica.bg/balgariq/obshtestvo/ima-li-nova-migrantska-valna-po-balgaro-turskata-granica-vlastitepredpriemat-vajni-deystviq"
+  }
+]

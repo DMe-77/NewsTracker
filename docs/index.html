@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BG-TR Border Monitor</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/luxon@3.4.4/build/global/luxon.min.js"></script>
+</head>
+<body>
+    <header>
+        <h1>🇧🇬🇹🇷 Border Monitor</h1>
+        <p>Live OSINT from the Bulgarian-Turkish Border</p>
+        <div id="last-updated">Loading...</div>
+    </header>
+
+    <main>
+        <div class="container">
+            <h2>Truck Traffic Statistics</h2>
+            <div class="chart-container">
+                <canvas id="trucks-chart"></canvas>
+            </div>
+        </div>
+
+        <div class="container">
+            <h2>Incident Feed</h2>
+            <div class="controls">
+                <select id="status-filter">
+                    <option value="all">All statuses</option>
+                    <option value="Критично">Критично</option>
+                    <option value="Важно">Важно</option>
+                    <option value="Информация">Информация</option>
+                </select>
+                <input id="search-filter" type="text" placeholder="Search headline or location..." />
+            </div>
+            <div id="incident-feed">
+                <!-- Incidents will be loaded here by app.js -->
+                <div class="skeleton-loader"></div>
+                <div class="skeleton-loader"></div>
+                <div class="skeleton-loader"></div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>Powered by NewsTracker. Last Updated: <span id="footer-last-updated"></span></p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
