@@ -5,7 +5,8 @@ run.py — Unified local launcher for NewsTracker.
 Starts and supervises:
 - border_news_monitor.py
 - customs_scraper.py
-- local docs web server (http://localhost:8080)
+- intelligence-dashboard dev server (http://localhost:3000/NewsTracker)
+- local docs web server fallback (http://localhost:8080)
 - optional Cloudflare quick tunnel (if cloudflared is installed)
 
 Also regenerates docs/data.json periodically via generate_web_data.py.
@@ -33,8 +34,10 @@ log = logging.getLogger(__name__)
 PYTHON = sys.executable
 BASE_DIR = Path(__file__).parent
 DOCS_DIR = BASE_DIR / "docs"
+DASHBOARD_DIR = BASE_DIR / "intelligence-dashboard"
 RESTART_DELAY = 30  # seconds before restarting a crashed script
-WEB_PORT = 8080
+DASHBOARD_PORT = 3000
+DOCS_PORT = 8080
 DATA_REFRESH_INTERVAL = 5 * 60
 ENV_FILES = [BASE_DIR / ".env", BASE_DIR / ".env.local"]
 
@@ -53,21 +56,32 @@ def launch_python_script(script: Path) -> subprocess.Popen:
 
 
 def launch_docs_server() -> subprocess.Popen:
-    log.info(f"Стартиране: docs web server на порт {WEB_PORT}")
+    log.info(f"Стартиране: docs web server на порт {DOCS_PORT}")
     return subprocess.Popen(
-        [PYTHON, "-m", "http.server", str(WEB_PORT)],
+        [PYTHON, "-m", "http.server", str(DOCS_PORT)],
         cwd=DOCS_DIR,
     )
 
 
-def launch_cloudflared_tunnel() -> subprocess.Popen | None:
+def launch_dashboard_server() -> subprocess.Popen | None:
+    npm_path = shutil.which("npm")
+    if not npm_path:
+        return None
+    log.info(f"Стартиране: dashboard dev server на порт {DASHBOARD_PORT}")
+    return subprocess.Popen(
+        [npm_path, "run", "dev", "--", "--port", str(DASHBOARD_PORT)],
+        cwd=DASHBOARD_DIR,
+    )
+
+
+def launch_cloudflared_tunnel(target_port: int) -> subprocess.Popen | None:
     cloudflared_path = shutil.which("cloudflared")
     if not cloudflared_path:
         log.info("cloudflared не е намерен в PATH — tunnel няма да се стартира.")
         return None
     log.info("Стартиране: Cloudflare quick tunnel")
     return subprocess.Popen(
-        [cloudflared_path, "tunnel", "--url", f"http://localhost:{WEB_PORT}"],
+        [cloudflared_path, "tunnel", "--url", f"http://localhost:{target_port}"],
         cwd=BASE_DIR,
     )
 
@@ -133,19 +147,31 @@ def main():
         if not s.exists():
             log.error(f"Не е намерен файл: {s}")
             sys.exit(1)
-    if not DOCS_DIR.exists():
-        log.error(f"Не е намерена папка: {DOCS_DIR}")
-        sys.exit(1)
     log.info("=" * 50)
 
     process_launchers: dict[str, callable] = {
         "border_news_monitor.py": lambda: launch_python_script(BASE_DIR / "border_news_monitor.py"),
         "customs_scraper.py": lambda: launch_python_script(BASE_DIR / "customs_scraper.py"),
-        "docs_http_server": launch_docs_server,
     }
-    tunnel_proc = launch_cloudflared_tunnel()
+
+    dashboard_available = DASHBOARD_DIR.exists() and shutil.which("npm")
+    web_target_port = DASHBOARD_PORT
+    if dashboard_available:
+        process_launchers["dashboard_dev_server"] = launch_dashboard_server
+    else:
+        if not DASHBOARD_DIR.exists():
+            log.warning("intelligence-dashboard липсва — превключване към docs web server.")
+        elif not shutil.which("npm"):
+            log.warning("npm не е намерен — превключване към docs web server.")
+        if not DOCS_DIR.exists():
+            log.error(f"Не е намерена папка: {DOCS_DIR}")
+            sys.exit(1)
+        web_target_port = DOCS_PORT
+        process_launchers["docs_http_server"] = launch_docs_server
+
+    tunnel_proc = launch_cloudflared_tunnel(web_target_port)
     if tunnel_proc is not None:
-        process_launchers["cloudflared_tunnel"] = launch_cloudflared_tunnel
+        process_launchers["cloudflared_tunnel"] = lambda: launch_cloudflared_tunnel(web_target_port)
 
     processes: dict[str, subprocess.Popen] = {}
     for name, launcher in process_launchers.items():
