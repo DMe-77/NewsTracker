@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-25T19:45:16.378658+00:00",
+    "last_updated": "2026-03-26T18:02:12.600599+00:00",
     "truck_stats": [
         {
             "date": "2026-01-01",
@@ -1754,9 +1754,114 @@
                     "out": 484
                 }
             }
+        },
+        {
+            "date": "2026-03-26",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/26-03-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2503,
+                    "in": 1181,
+                    "out": 1322
+                },
+                "Лесово": {
+                    "total": 1632,
+                    "in": 754,
+                    "out": 878
+                },
+                "Калотина": {
+                    "total": 1084,
+                    "in": 595,
+                    "out": 489
+                }
+            }
         }
     ],
     "incidents": [
+        {
+            "first_seen_utc": "2026-03-26T15:32:25.171110+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: ГКПП Капъкуле (TR)",
+                "headline": "📰 12 килограма дрога са иззети от палтата на двама пътници в Капъкуле"
+            },
+            "links": [
+                {
+                    "url": "https://www.haberler.com/guncel/kapikule-sinir-kapisi-nda-uyusturucu-operasyonu-12-kilo-ele-gecirildi-19691040-haberi/",
+                    "domain": "haberler.com"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-26T10:44:47.697432+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 България и Турция са приятели и важни регионални партньори"
+            },
+            "links": [
+                {
+                    "url": "https://fakti.bg/bulgaria/1044232-balgaria-i-turcia-sa-priateli-i-vajni-regionalni-partnyori",
+                    "domain": "fakti.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-26T08:39:48.131506+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Трима са задържани за престъпления против политическите права на гражданите в Кърджалийско"
+            },
+            "links": [
+                {
+                    "url": "https://www.24chasa.bg/bulgaria/article/22544327",
+                    "domain": "24chasa.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-26T08:09:58.860019+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Важно",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Отново интензивен трафик от тирове на Капитан Андреево и Лесово"
+            },
+            "links": [
+                {
+                    "url": "https://www.marica.bg/region/haskovo/otnovo-intenziven-trafik-ot-tirove-na-kapitan-andreevo-i-lesovo",
+                    "domain": "marica.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-26T07:47:31.784584+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Арестуваxа нашмъркан с кокаин шофьор, друг кара с 2.45 промила"
+            },
+            "links": [
+                {
+                    "url": "https://www.marica.bg/region/haskovo/arestuvaxa-nashmarkan-s-kokain-shofyor-drug-kara-s-2-45-promila",
+                    "domain": "marica.bg"
+                }
+            ]
+        },
+        {
+            "first_seen_utc": "2026-03-26T06:56:27.099075+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Губернаторът на Къркларели Туран посети Асоциацията на хората с аутизъм"
+            },
+            "links": [
+                {
+                    "url": "https://www.haberler.com/guncel/kirklareli-valisi-ugur-turan-otizmli-ogrencilerin-aileleriyle-bulustu-19689327-haberi/",
+                    "domain": "haberler.com"
+                }
+            ]
+        },
         {
             "first_seen_utc": "2026-03-25T18:18:12.163110+00:00",
             "analysis": {
@@ -2372,95 +2477,155 @@
                     "domain": "24chasa.bg"
                 }
             ]
-        },
-        {
-            "first_seen_utc": "2026-03-20T12:51:55.177878+00:00",
-            "analysis": {
-                "status": "🚨 Статус: Критично",
-                "location": "📍 Локация: Българо-турска граница",
-                "headline": "📰 Над 34 500 души са изразили желание да гласуват в чужбина на избори през април"
-            },
-            "links": [
-                {
-                    "url": "https://www.novinite.bg/articles/282085/nad-34-500-dushi-sa-izrazili-zhelanie-da-glasuvat-v-chuzhbina-na-izbori-prez-april",
-                    "domain": "novinite.bg"
-                }
-            ]
-        },
-        {
-            "first_seen_utc": "2026-03-20T10:31:03.300984+00:00",
-            "analysis": {
-                "status": "🚨 Статус: Критично",
-                "location": "📍 Локация: Българо-турска граница",
-                "headline": "📰 Оставиха за постоянно в ареста тираджия с дрога за 86 633 евро"
-            },
-            "links": [
-                {
-                    "url": "https://www.marica.bg/region/haskovo/ostaviha-za-postoqnno-v-aresta-tiradjiq-s-droga-za-86-633-evro",
-                    "domain": "marica.bg"
-                }
-            ]
-        },
-        {
-            "first_seen_utc": "2026-03-20T09:56:04.162489+00:00",
-            "analysis": {
-                "status": "🚨 Статус: Информация",
-                "location": "📍 Локация: ГКПП Капъкуле (TR)",
-                "headline": "📰 Шофьорите на камиони празнуват празника си по пътищата"
-            },
-            "links": [
-                {
-                    "url": "https://www.trthaber.com/haber/gundem/tir-soforlerinin-bayrami-yollarda-geciyor-938466.html",
-                    "domain": "trthaber.com"
-                }
-            ]
-        },
-        {
-            "first_seen_utc": "2026-03-20T08:47:06.142963+00:00",
-            "analysis": {
-                "status": "🚨 Статус: Информация",
-                "location": "📍 Локация: ГКПП Капъкуле (TR)",
-                "headline": "📰 Горчив празник за шофьорите на камиони в Капъкуле"
-            },
-            "links": [
-                {
-                    "url": "https://www.ntv.com.tr/turkiye/kapikulede-tir-soforlerinin-buruk-bayrami-1716729",
-                    "domain": "ntv.com.tr"
-                }
-            ]
-        },
-        {
-            "first_seen_utc": "2026-03-19T15:49:45.419936+00:00",
-            "analysis": {
-                "status": "🚨 Статус: Важно",
-                "location": "📍 Локация: ГКПП Капитан Андреево",
-                "headline": "📰 Турчин обвинен в опит за контрабанда на канабиноид за 87 000 евро от България"
-            },
-            "links": [
-                {
-                    "url": "https://www.bta.bg/en/news/bulgaria/1087677-turkish-man-charged-with-attempted-smuggling-of-eur-87-000-worth-of-cannabinoid-",
-                    "domain": "bta.bg"
-                }
-            ]
-        },
-        {
-            "first_seen_utc": "2026-03-19T15:20:53.254345+00:00",
-            "analysis": {
-                "status": "🚨 Статус: Критично",
-                "location": "📍 Локация: ГКПП Капитан Андреево",
-                "headline": "📰 Задържаха 38- годишен турчин с наркотик за 86 633 евро на Капитан Андреево"
-            },
-            "links": [
-                {
-                    "url": "https://www.marica.bg/region/haskovo/zadarjaha-38-godishen-turchin-s-narkotik-za-86-633-evro-na-kapitan-andreevo",
-                    "domain": "marica.bg"
-                }
-            ]
         }
     ],
     "incident_clusters": [
         {
             "id": "cluster-1",
+            "first_seen_utc": "2026-03-26T15:32:25.171110+00:00",
+            "last_seen_utc": "2026-03-26T15:32:25.171110+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: ГКПП Капъкуле (TR)",
+                "headline": "📰 12 килограма дрога са иззети от палтата на двама пътници в Капъкуле"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "haberler.com"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "haberler.com",
+                    "url": "https://www.haberler.com/guncel/kapikule-sinir-kapisi-nda-uyusturucu-operasyonu-12-kilo-ele-gecirildi-19691040-haberi/",
+                    "headline": "📰 12 килограма дрога са иззети от палтата на двама пътници в Капъкуле",
+                    "first_seen_utc": "2026-03-26T15:32:25.171110+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-2",
+            "first_seen_utc": "2026-03-26T10:44:47.697432+00:00",
+            "last_seen_utc": "2026-03-26T10:44:47.697432+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 България и Турция са приятели и важни регионални партньори"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "fakti.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "fakti.bg",
+                    "url": "https://fakti.bg/bulgaria/1044232-balgaria-i-turcia-sa-priateli-i-vajni-regionalni-partnyori",
+                    "headline": "📰 България и Турция са приятели и важни регионални партньори",
+                    "first_seen_utc": "2026-03-26T10:44:47.697432+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-3",
+            "first_seen_utc": "2026-03-26T08:39:48.131506+00:00",
+            "last_seen_utc": "2026-03-26T08:39:48.131506+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Трима са задържани за престъпления против политическите права на гражданите в Кърджалийско"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "24chasa.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "24chasa.bg",
+                    "url": "https://www.24chasa.bg/bulgaria/article/22544327",
+                    "headline": "📰 Трима са задържани за престъпления против политическите права на гражданите в Кърджалийско",
+                    "first_seen_utc": "2026-03-26T08:39:48.131506+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-4",
+            "first_seen_utc": "2026-03-26T08:09:58.860019+00:00",
+            "last_seen_utc": "2026-03-26T08:09:58.860019+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Важно",
+                "location": "📍 Локация: ГКПП Капитан Андреево",
+                "headline": "📰 Отново интензивен трафик от тирове на Капитан Андреево и Лесово"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "marica.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "marica.bg",
+                    "url": "https://www.marica.bg/region/haskovo/otnovo-intenziven-trafik-ot-tirove-na-kapitan-andreevo-i-lesovo",
+                    "headline": "📰 Отново интензивен трафик от тирове на Капитан Андреево и Лесово",
+                    "first_seen_utc": "2026-03-26T08:09:58.860019+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-5",
+            "first_seen_utc": "2026-03-26T07:47:31.784584+00:00",
+            "last_seen_utc": "2026-03-26T07:47:31.784584+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Критично",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Арестуваxа нашмъркан с кокаин шофьор, друг кара с 2.45 промила"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "marica.bg"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "marica.bg",
+                    "url": "https://www.marica.bg/region/haskovo/arestuvaxa-nashmarkan-s-kokain-shofyor-drug-kara-s-2-45-promila",
+                    "headline": "📰 Арестуваxа нашмъркан с кокаин шофьор, друг кара с 2.45 промила",
+                    "first_seen_utc": "2026-03-26T07:47:31.784584+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-6",
+            "first_seen_utc": "2026-03-26T06:56:27.099075+00:00",
+            "last_seen_utc": "2026-03-26T06:56:27.099075+00:00",
+            "analysis": {
+                "status": "🚨 Статус: Информация",
+                "location": "📍 Локация: Българо-турска граница",
+                "headline": "📰 Губернаторът на Къркларели Туран посети Асоциацията на хората с аутизъм"
+            },
+            "incident_count": 1,
+            "source_count": 1,
+            "sources": [
+                "haberler.com"
+            ],
+            "cluster_confidence": 0.78,
+            "articles": [
+                {
+                    "domain": "haberler.com",
+                    "url": "https://www.haberler.com/guncel/kirklareli-valisi-ugur-turan-otizmli-ogrencilerin-aileleriyle-bulustu-19689327-haberi/",
+                    "headline": "📰 Губернаторът на Къркларели Туран посети Асоциацията на хората с аутизъм",
+                    "first_seen_utc": "2026-03-26T06:56:27.099075+00:00"
+                }
+            ]
+        },
+        {
+            "id": "cluster-7",
             "first_seen_utc": "2026-03-25T18:10:50.143159+00:00",
             "last_seen_utc": "2026-03-25T18:18:12.163110+00:00",
             "analysis": {
@@ -2490,7 +2655,7 @@
             ]
         },
         {
-            "id": "cluster-2",
+            "id": "cluster-8",
             "first_seen_utc": "2026-03-25T11:58:34.363938+00:00",
             "last_seen_utc": "2026-03-25T11:58:34.363938+00:00",
             "analysis": {
@@ -2514,7 +2679,7 @@
             ]
         },
         {
-            "id": "cluster-3",
+            "id": "cluster-9",
             "first_seen_utc": "2026-03-25T10:44:06.768119+00:00",
             "last_seen_utc": "2026-03-25T10:44:06.768119+00:00",
             "analysis": {
@@ -2538,7 +2703,7 @@
             ]
         },
         {
-            "id": "cluster-4",
+            "id": "cluster-10",
             "first_seen_utc": "2026-03-24T05:43:06.818923+00:00",
             "last_seen_utc": "2026-03-25T08:46:21.756427+00:00",
             "analysis": {
@@ -2568,7 +2733,7 @@
             ]
         },
         {
-            "id": "cluster-5",
+            "id": "cluster-11",
             "first_seen_utc": "2026-03-24T18:19:33.238846+00:00",
             "last_seen_utc": "2026-03-24T18:19:33.238846+00:00",
             "analysis": {
@@ -2592,7 +2757,7 @@
             ]
         },
         {
-            "id": "cluster-6",
+            "id": "cluster-12",
             "first_seen_utc": "2026-03-24T15:03:18.425233+00:00",
             "last_seen_utc": "2026-03-24T15:03:18.425233+00:00",
             "analysis": {
@@ -2616,7 +2781,7 @@
             ]
         },
         {
-            "id": "cluster-7",
+            "id": "cluster-13",
             "first_seen_utc": "2026-03-24T11:54:16.066837+00:00",
             "last_seen_utc": "2026-03-24T11:54:16.066837+00:00",
             "analysis": {
@@ -2640,7 +2805,7 @@
             ]
         },
         {
-            "id": "cluster-8",
+            "id": "cluster-14",
             "first_seen_utc": "2026-03-24T09:05:24.655570+00:00",
             "last_seen_utc": "2026-03-24T09:05:24.655570+00:00",
             "analysis": {
@@ -2664,7 +2829,7 @@
             ]
         },
         {
-            "id": "cluster-9",
+            "id": "cluster-15",
             "first_seen_utc": "2026-03-24T08:36:23.623643+00:00",
             "last_seen_utc": "2026-03-24T08:36:23.623643+00:00",
             "analysis": {
@@ -2688,7 +2853,7 @@
             ]
         },
         {
-            "id": "cluster-10",
+            "id": "cluster-16",
             "first_seen_utc": "2026-03-24T06:36:39.500902+00:00",
             "last_seen_utc": "2026-03-24T06:44:18.592054+00:00",
             "analysis": {
@@ -2712,7 +2877,7 @@
             ]
         },
         {
-            "id": "cluster-11",
+            "id": "cluster-17",
             "first_seen_utc": "2026-03-24T06:28:48.897156+00:00",
             "last_seen_utc": "2026-03-24T06:36:46.705075+00:00",
             "analysis": {
@@ -2743,7 +2908,7 @@
             ]
         },
         {
-            "id": "cluster-12",
+            "id": "cluster-18",
             "first_seen_utc": "2026-03-24T05:21:30.291336+00:00",
             "last_seen_utc": "2026-03-24T06:13:34.720737+00:00",
             "analysis": {
@@ -2774,7 +2939,7 @@
             ]
         },
         {
-            "id": "cluster-13",
+            "id": "cluster-19",
             "first_seen_utc": "2026-03-23T16:21:15.351667+00:00",
             "last_seen_utc": "2026-03-23T16:21:15.351667+00:00",
             "analysis": {
@@ -2798,7 +2963,7 @@
             ]
         },
         {
-            "id": "cluster-14",
+            "id": "cluster-20",
             "first_seen_utc": "2026-03-23T14:21:49.627744+00:00",
             "last_seen_utc": "2026-03-23T14:21:49.627744+00:00",
             "analysis": {
@@ -2822,7 +2987,7 @@
             ]
         },
         {
-            "id": "cluster-15",
+            "id": "cluster-21",
             "first_seen_utc": "2026-03-23T12:31:32.857957+00:00",
             "last_seen_utc": "2026-03-23T12:31:32.857957+00:00",
             "analysis": {
@@ -2846,7 +3011,7 @@
             ]
         },
         {
-            "id": "cluster-16",
+            "id": "cluster-22",
             "first_seen_utc": "2026-03-23T10:59:26.421762+00:00",
             "last_seen_utc": "2026-03-23T11:13:37.938523+00:00",
             "analysis": {
@@ -2876,7 +3041,7 @@
             ]
         },
         {
-            "id": "cluster-17",
+            "id": "cluster-23",
             "first_seen_utc": "2026-03-23T05:38:28.923616+00:00",
             "last_seen_utc": "2026-03-23T05:38:28.923616+00:00",
             "analysis": {
@@ -2900,7 +3065,7 @@
             ]
         },
         {
-            "id": "cluster-18",
+            "id": "cluster-24",
             "first_seen_utc": "2026-03-23T05:24:36.115639+00:00",
             "last_seen_utc": "2026-03-23T05:24:36.115639+00:00",
             "analysis": {
@@ -2924,7 +3089,7 @@
             ]
         },
         {
-            "id": "cluster-19",
+            "id": "cluster-25",
             "first_seen_utc": "2026-03-23T04:31:20.194180+00:00",
             "last_seen_utc": "2026-03-23T04:31:20.194180+00:00",
             "analysis": {
@@ -2948,7 +3113,7 @@
             ]
         },
         {
-            "id": "cluster-20",
+            "id": "cluster-26",
             "first_seen_utc": "2026-03-22T10:33:36.772356+00:00",
             "last_seen_utc": "2026-03-22T10:33:36.772356+00:00",
             "analysis": {
@@ -2972,7 +3137,7 @@
             ]
         },
         {
-            "id": "cluster-21",
+            "id": "cluster-27",
             "first_seen_utc": "2026-03-22T10:32:56.340420+00:00",
             "last_seen_utc": "2026-03-22T10:32:56.340420+00:00",
             "analysis": {
@@ -2996,7 +3161,7 @@
             ]
         },
         {
-            "id": "cluster-22",
+            "id": "cluster-28",
             "first_seen_utc": "2026-03-21T18:05:06.410793+00:00",
             "last_seen_utc": "2026-03-21T18:05:06.410793+00:00",
             "analysis": {
@@ -3020,7 +3185,7 @@
             ]
         },
         {
-            "id": "cluster-23",
+            "id": "cluster-29",
             "first_seen_utc": "2026-03-21T17:58:05.134229+00:00",
             "last_seen_utc": "2026-03-21T17:58:05.134229+00:00",
             "analysis": {
@@ -3044,7 +3209,7 @@
             ]
         },
         {
-            "id": "cluster-24",
+            "id": "cluster-30",
             "first_seen_utc": "2026-03-21T15:50:00.256104+00:00",
             "last_seen_utc": "2026-03-21T15:50:00.256104+00:00",
             "analysis": {
@@ -3068,7 +3233,7 @@
             ]
         },
         {
-            "id": "cluster-25",
+            "id": "cluster-31",
             "first_seen_utc": "2026-03-21T15:09:11.502931+00:00",
             "last_seen_utc": "2026-03-21T15:09:11.502931+00:00",
             "analysis": {
@@ -3092,7 +3257,7 @@
             ]
         },
         {
-            "id": "cluster-26",
+            "id": "cluster-32",
             "first_seen_utc": "2026-03-21T14:35:20.676665+00:00",
             "last_seen_utc": "2026-03-21T14:35:20.676665+00:00",
             "analysis": {
@@ -3116,7 +3281,7 @@
             ]
         },
         {
-            "id": "cluster-27",
+            "id": "cluster-33",
             "first_seen_utc": "2026-03-21T14:35:14.742448+00:00",
             "last_seen_utc": "2026-03-21T14:35:14.742448+00:00",
             "analysis": {
@@ -3140,7 +3305,7 @@
             ]
         },
         {
-            "id": "cluster-28",
+            "id": "cluster-34",
             "first_seen_utc": "2026-03-21T14:21:48.402733+00:00",
             "last_seen_utc": "2026-03-21T14:21:48.402733+00:00",
             "analysis": {
@@ -3164,7 +3329,7 @@
             ]
         },
         {
-            "id": "cluster-29",
+            "id": "cluster-35",
             "first_seen_utc": "2026-03-21T14:01:36.101604+00:00",
             "last_seen_utc": "2026-03-21T14:01:36.101604+00:00",
             "analysis": {
@@ -3188,7 +3353,7 @@
             ]
         },
         {
-            "id": "cluster-30",
+            "id": "cluster-36",
             "first_seen_utc": "2026-03-21T14:01:30.136683+00:00",
             "last_seen_utc": "2026-03-21T14:01:30.136683+00:00",
             "analysis": {
@@ -3212,7 +3377,7 @@
             ]
         },
         {
-            "id": "cluster-31",
+            "id": "cluster-37",
             "first_seen_utc": "2026-03-21T14:01:22.672199+00:00",
             "last_seen_utc": "2026-03-21T14:01:22.672199+00:00",
             "analysis": {
@@ -3236,7 +3401,7 @@
             ]
         },
         {
-            "id": "cluster-32",
+            "id": "cluster-38",
             "first_seen_utc": "2026-03-21T13:54:13.302923+00:00",
             "last_seen_utc": "2026-03-21T13:54:13.302923+00:00",
             "analysis": {
@@ -3260,7 +3425,7 @@
             ]
         },
         {
-            "id": "cluster-33",
+            "id": "cluster-39",
             "first_seen_utc": "2026-03-21T10:10:06.604554+00:00",
             "last_seen_utc": "2026-03-21T10:31:04.651928+00:00",
             "analysis": {
@@ -3291,7 +3456,7 @@
             ]
         },
         {
-            "id": "cluster-34",
+            "id": "cluster-40",
             "first_seen_utc": "2026-03-21T10:24:02.527163+00:00",
             "last_seen_utc": "2026-03-21T10:24:02.527163+00:00",
             "analysis": {
@@ -3315,7 +3480,7 @@
             ]
         },
         {
-            "id": "cluster-35",
+            "id": "cluster-41",
             "first_seen_utc": "2026-03-21T09:40:47.186867+00:00",
             "last_seen_utc": "2026-03-21T09:40:47.186867+00:00",
             "analysis": {
@@ -3339,7 +3504,7 @@
             ]
         },
         {
-            "id": "cluster-36",
+            "id": "cluster-42",
             "first_seen_utc": "2026-03-20T14:23:27.786958+00:00",
             "last_seen_utc": "2026-03-20T14:23:27.786958+00:00",
             "analysis": {
@@ -3363,7 +3528,7 @@
             ]
         },
         {
-            "id": "cluster-37",
+            "id": "cluster-43",
             "first_seen_utc": "2026-03-20T14:16:25.689861+00:00",
             "last_seen_utc": "2026-03-20T14:16:25.689861+00:00",
             "analysis": {
@@ -3383,150 +3548,6 @@
                     "url": "https://www.24chasa.bg/bulgaria/article/22511582",
                     "headline": "📰 Оставиха в ареста обвиненият в контрабанда на 14 кг синтетична дрога през „Капитан Андреево“",
                     "first_seen_utc": "2026-03-20T14:16:25.689861+00:00"
-                }
-            ]
-        },
-        {
-            "id": "cluster-38",
-            "first_seen_utc": "2026-03-20T12:51:55.177878+00:00",
-            "last_seen_utc": "2026-03-20T12:51:55.177878+00:00",
-            "analysis": {
-                "status": "🚨 Статус: Критично",
-                "location": "📍 Локация: Българо-турска граница",
-                "headline": "📰 Над 34 500 души са изразили желание да гласуват в чужбина на избори през април"
-            },
-            "incident_count": 1,
-            "source_count": 1,
-            "sources": [
-                "novinite.bg"
-            ],
-            "cluster_confidence": 0.78,
-            "articles": [
-                {
-                    "domain": "novinite.bg",
-                    "url": "https://www.novinite.bg/articles/282085/nad-34-500-dushi-sa-izrazili-zhelanie-da-glasuvat-v-chuzhbina-na-izbori-prez-april",
-                    "headline": "📰 Над 34 500 души са изразили желание да гласуват в чужбина на избори през април",
-                    "first_seen_utc": "2026-03-20T12:51:55.177878+00:00"
-                }
-            ]
-        },
-        {
-            "id": "cluster-39",
-            "first_seen_utc": "2026-03-20T10:31:03.300984+00:00",
-            "last_seen_utc": "2026-03-20T10:31:03.300984+00:00",
-            "analysis": {
-                "status": "🚨 Статус: Критично",
-                "location": "📍 Локация: Българо-турска граница",
-                "headline": "📰 Оставиха за постоянно в ареста тираджия с дрога за 86 633 евро"
-            },
-            "incident_count": 1,
-            "source_count": 1,
-            "sources": [
-                "marica.bg"
-            ],
-            "cluster_confidence": 0.78,
-            "articles": [
-                {
-                    "domain": "marica.bg",
-                    "url": "https://www.marica.bg/region/haskovo/ostaviha-za-postoqnno-v-aresta-tiradjiq-s-droga-za-86-633-evro",
-                    "headline": "📰 Оставиха за постоянно в ареста тираджия с дрога за 86 633 евро",
-                    "first_seen_utc": "2026-03-20T10:31:03.300984+00:00"
-                }
-            ]
-        },
-        {
-            "id": "cluster-40",
-            "first_seen_utc": "2026-03-20T09:56:04.162489+00:00",
-            "last_seen_utc": "2026-03-20T09:56:04.162489+00:00",
-            "analysis": {
-                "status": "🚨 Статус: Информация",
-                "location": "📍 Локация: ГКПП Капъкуле (TR)",
-                "headline": "📰 Шофьорите на камиони празнуват празника си по пътищата"
-            },
-            "incident_count": 1,
-            "source_count": 1,
-            "sources": [
-                "trthaber.com"
-            ],
-            "cluster_confidence": 0.78,
-            "articles": [
-                {
-                    "domain": "trthaber.com",
-                    "url": "https://www.trthaber.com/haber/gundem/tir-soforlerinin-bayrami-yollarda-geciyor-938466.html",
-                    "headline": "📰 Шофьорите на камиони празнуват празника си по пътищата",
-                    "first_seen_utc": "2026-03-20T09:56:04.162489+00:00"
-                }
-            ]
-        },
-        {
-            "id": "cluster-41",
-            "first_seen_utc": "2026-03-20T08:47:06.142963+00:00",
-            "last_seen_utc": "2026-03-20T08:47:06.142963+00:00",
-            "analysis": {
-                "status": "🚨 Статус: Информация",
-                "location": "📍 Локация: ГКПП Капъкуле (TR)",
-                "headline": "📰 Горчив празник за шофьорите на камиони в Капъкуле"
-            },
-            "incident_count": 1,
-            "source_count": 1,
-            "sources": [
-                "ntv.com.tr"
-            ],
-            "cluster_confidence": 0.78,
-            "articles": [
-                {
-                    "domain": "ntv.com.tr",
-                    "url": "https://www.ntv.com.tr/turkiye/kapikulede-tir-soforlerinin-buruk-bayrami-1716729",
-                    "headline": "📰 Горчив празник за шофьорите на камиони в Капъкуле",
-                    "first_seen_utc": "2026-03-20T08:47:06.142963+00:00"
-                }
-            ]
-        },
-        {
-            "id": "cluster-42",
-            "first_seen_utc": "2026-03-19T15:49:45.419936+00:00",
-            "last_seen_utc": "2026-03-19T15:49:45.419936+00:00",
-            "analysis": {
-                "status": "🚨 Статус: Важно",
-                "location": "📍 Локация: ГКПП Капитан Андреево",
-                "headline": "📰 Турчин обвинен в опит за контрабанда на канабиноид за 87 000 евро от България"
-            },
-            "incident_count": 1,
-            "source_count": 1,
-            "sources": [
-                "bta.bg"
-            ],
-            "cluster_confidence": 0.78,
-            "articles": [
-                {
-                    "domain": "bta.bg",
-                    "url": "https://www.bta.bg/en/news/bulgaria/1087677-turkish-man-charged-with-attempted-smuggling-of-eur-87-000-worth-of-cannabinoid-",
-                    "headline": "📰 Турчин обвинен в опит за контрабанда на канабиноид за 87 000 евро от България",
-                    "first_seen_utc": "2026-03-19T15:49:45.419936+00:00"
-                }
-            ]
-        },
-        {
-            "id": "cluster-43",
-            "first_seen_utc": "2026-03-19T15:20:53.254345+00:00",
-            "last_seen_utc": "2026-03-19T15:20:53.254345+00:00",
-            "analysis": {
-                "status": "🚨 Статус: Критично",
-                "location": "📍 Локация: ГКПП Капитан Андреево",
-                "headline": "📰 Задържаха 38- годишен турчин с наркотик за 86 633 евро на Капитан Андреево"
-            },
-            "incident_count": 1,
-            "source_count": 1,
-            "sources": [
-                "marica.bg"
-            ],
-            "cluster_confidence": 0.78,
-            "articles": [
-                {
-                    "domain": "marica.bg",
-                    "url": "https://www.marica.bg/region/haskovo/zadarjaha-38-godishen-turchin-s-narkotik-za-86-633-evro-na-kapitan-andreevo",
-                    "headline": "📰 Задържаха 38- годишен турчин с наркотик за 86 633 евро на Капитан Андреево",
-                    "first_seen_utc": "2026-03-19T15:20:53.254345+00:00"
                 }
             ]
         }
