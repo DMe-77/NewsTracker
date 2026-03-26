@@ -9,7 +9,8 @@ type Props = {
 };
 
 const reveal = {
-  hidden: { opacity: 0, y: 24 },
+  // Keep server-rendered content visible if client JS fails to load.
+  hidden: { opacity: 1, y: 0 },
   show: { opacity: 1, y: 0 },
 };
 
