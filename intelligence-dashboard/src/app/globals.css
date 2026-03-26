@@ -1,0 +1,80 @@
+@import "tailwindcss";
+
+:root {
+  --background: #070b14;
+  --foreground: #f6f8ff;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+  background-image:
+    radial-gradient(circle at 10% 10%, rgba(34, 211, 238, 0.15), transparent 30%),
+    radial-gradient(circle at 85% 20%, rgba(59, 130, 246, 0.18), transparent 35%),
+    radial-gradient(circle at 40% 85%, rgba(244, 114, 182, 0.1), transparent 30%),
+    linear-gradient(180deg, #060a13 0%, #090f1d 100%);
+}
+
+.section-shell {
+  min-height: 72vh;
+  display: flex;
+  align-items: center;
+  padding: clamp(2rem, 6vw, 4rem) clamp(1rem, 5vw, 4rem);
+}
+
+.section-compact {
+  min-height: auto;
+  align-items: flex-start;
+}
+
+.glass-card {
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.12),
+    rgba(255, 255, 255, 0.03)
+  );
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border-radius: 1.25rem;
+  padding: 1.05rem;
+  box-shadow:
+    0 24px 80px rgba(0, 0, 0, 0.35),
+    inset 0 1px 0 rgba(255, 255, 255, 0.18);
+}
+
+.label {
+  color: rgba(255, 255, 255, 0.62);
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  font-size: 0.72rem;
+}
+
+.value {
+  margin-top: 0.3rem;
+  font-size: clamp(1.25rem, 1.8vw, 1.9rem);
+  line-height: 1.05;
+  font-weight: 600;
+}
+
+.section-title {
+  font-size: clamp(1.8rem, 4vw, 3rem);
+  line-height: 1.05;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.section-copy {
+  max-width: 48rem;
+  margin-top: 0.7rem;
+  color: rgba(255, 255, 255, 0.72);
+  font-size: clamp(0.95rem, 1.5vw, 1.05rem);
+}

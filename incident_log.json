@@ -1865,5 +1865,126 @@
     },
     "confirmed": false,
     "link": "https://www.marica.bg/balgariq/obshtestvo/ima-li-nova-migrantska-valna-po-balgaro-turskata-granica-vlastitepredpriemat-vajni-deystviq"
+  },
+  {
+    "id": "c5d0608a14bb",
+    "timestamp": "2026-03-26T06:56:27.099075+00:00",
+    "date": "26.03.2026",
+    "time": "06:56",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "Губернаторът на Къркларели Туран посети Асоциацията на хората с аутизъм",
+    "sources": [
+      "haberler.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 1,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.haberler.com/guncel/kirklareli-valisi-ugur-turan-otizmli-ogrencilerin-aileleriyle-bulustu-19689327-haberi/"
+  },
+  {
+    "id": "63865124e195",
+    "timestamp": "2026-03-26T07:47:31.784584+00:00",
+    "date": "26.03.2026",
+    "time": "07:47",
+    "status": "Критично",
+    "location": "Българо-турска граница",
+    "type": "наркотици",
+    "headline": "Арестуваxа нашмъркан с кокаин шофьор, друг кара с 2.45 промила",
+    "sources": [
+      "marica.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.marica.bg/region/haskovo/arestuvaxa-nashmarkan-s-kokain-shofyor-drug-kara-s-2-45-promila"
+  },
+  {
+    "id": "03e800368a41",
+    "timestamp": "2026-03-26T08:09:58.860019+00:00",
+    "date": "26.03.2026",
+    "time": "08:09",
+    "status": "Важно",
+    "location": "ГКПП Капитан Андреево",
+    "type": "друго",
+    "headline": "Отново интензивен трафик от тирове на Капитан Андреево и Лесово",
+    "sources": [
+      "marica.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.marica.bg/region/haskovo/otnovo-intenziven-trafik-ot-tirove-na-kapitan-andreevo-i-lesovo"
+  },
+  {
+    "id": "fb123e593db6",
+    "timestamp": "2026-03-26T08:39:48.131506+00:00",
+    "date": "26.03.2026",
+    "time": "08:39",
+    "status": "Критично",
+    "location": "Българо-турска граница",
+    "type": "задържане",
+    "headline": "Трима са задържани за престъпления против политическите права на гражданите в Кърджалийско",
+    "sources": [
+      "24chasa.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.24chasa.bg/bulgaria/article/22544327"
+  },
+  {
+    "id": "c5d0608a14bb",
+    "timestamp": "2026-03-26T10:44:47.697432+00:00",
+    "date": "26.03.2026",
+    "time": "10:44",
+    "status": "Информация",
+    "location": "Българо-турска граница",
+    "type": "друго",
+    "headline": "България и Турция са приятели и важни регионални партньори",
+    "sources": [
+      "fakti.bg"
+    ],
+    "langs": {
+      "bg": 1,
+      "tr": 0,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://fakti.bg/bulgaria/1044232-balgaria-i-turcia-sa-priateli-i-vajni-regionalni-partnyori"
+  },
+  {
+    "id": "7227f87140ec",
+    "timestamp": "2026-03-26T15:32:25.171110+00:00",
+    "date": "26.03.2026",
+    "time": "15:32",
+    "status": "Критично",
+    "location": "ГКПП Капъкуле (TR)",
+    "type": "наркотици",
+    "headline": "12 килограма дрога са иззети от палтата на двама пътници в Капъкуле",
+    "sources": [
+      "haberler.com",
+      "sondakika.com"
+    ],
+    "langs": {
+      "bg": 0,
+      "tr": 2,
+      "en": 0
+    },
+    "confirmed": false,
+    "link": "https://www.haberler.com/guncel/kapikule-sinir-kapisi-nda-uyusturucu-operasyonu-12-kilo-ele-gecirildi-19691040-haberi/"
   }
 ]
