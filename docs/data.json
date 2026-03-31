@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-31T05:58:11.043055+00:00",
+    "last_updated": "2026-03-31T07:13:11.950513+00:00",
     "truck_stats": [
         {
             "date": "2026-01-01",
@@ -1857,6 +1857,27 @@
                     "total": 1200,
                     "in": 671,
                     "out": 529
+                }
+            }
+        },
+        {
+            "date": "2026-03-31",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/31-03-2026-Processed-trucks",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2949,
+                    "in": 1284,
+                    "out": 1665
+                },
+                "Лесово": {
+                    "total": 1480,
+                    "in": 718,
+                    "out": 762
+                },
+                "Калотина": {
+                    "total": 1333,
+                    "in": 706,
+                    "out": 627
                 }
             }
         }
