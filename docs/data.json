@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-07T05:58:20.532210+00:00",
+    "last_updated": "2026-04-07T07:07:12.641995+00:00",
     "truck_stats": [
         {
             "date": "2026-01-01",
@@ -2004,6 +2004,27 @@
                     "total": 1316,
                     "in": 705,
                     "out": 611
+                }
+            }
+        },
+        {
+            "date": "2026-04-07",
+            "url": "https://customs.bg/wps/portal/agency/media-center/news-details/07-04-2026-kamioni",
+            "checkpoints": {
+                "Капитан Андреево": {
+                    "total": 2472,
+                    "in": 1206,
+                    "out": 1266
+                },
+                "Лесово": {
+                    "total": 1483,
+                    "in": 760,
+                    "out": 723
+                },
+                "Калотина": {
+                    "total": 1143,
+                    "in": 611,
+                    "out": 532
                 }
             }
         }
