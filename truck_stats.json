@@ -2277,5 +2277,26 @@
         "out": 570
       }
     }
+  },
+  {
+    "date": "20-04-2026",
+    "url": "https://customs.bg/wps/portal/agency/media-center/news-details/20-04-2026-kamioni",
+    "checkpoints": {
+      "капитан андреево": {
+        "total": 2378,
+        "in": 1200,
+        "out": 1178
+      },
+      "лесово": {
+        "total": 1348,
+        "in": 720,
+        "out": 628
+      },
+      "калотина": {
+        "total": 1100,
+        "in": 623,
+        "out": 477
+      }
+    }
   }
 ]
