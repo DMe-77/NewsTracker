@@ -2571,5 +2571,26 @@
         "out": 539
       }
     }
+  },
+  {
+    "date": "04-05-2026",
+    "url": "https://customs.bg/wps/portal/agency/media-center/news-details/04-05-2026-processed-trucks-bg",
+    "checkpoints": {
+      "капитан андреево": {
+        "total": 2503,
+        "in": 1180,
+        "out": 1323
+      },
+      "лесово": {
+        "total": 1419,
+        "in": 816,
+        "out": 603
+      },
+      "калотина": {
+        "total": 993,
+        "in": 541,
+        "out": 452
+      }
+    }
   }
 ]
